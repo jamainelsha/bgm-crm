@@ -1,6 +1,3 @@
-// BGM CRM — App Router
-// Design: Precision Slate — all routes wrapped in persistent sidebar layout
-
 import { Toaster } from "@/components/ui/sonner";
 import { TooltipProvider } from "@/components/ui/tooltip";
 import NotFound from "@/pages/NotFound";
@@ -8,49 +5,51 @@ import { Route, Switch } from "wouter";
 import ErrorBoundary from "./components/ErrorBoundary";
 import { ThemeProvider } from "./contexts/ThemeContext";
 import Layout from "./components/Layout";
+
+// Core pages
 import Dashboard from "./pages/Dashboard";
-import ResidentsPage from "./pages/Residents";
-import UnitsPage from "./pages/Units";
-import ContractsPage from "./pages/Contracts";
-import EnquiriesPage from "./pages/Enquiries";
-import WaitlistPage from "./pages/Waitlist";
-import AppointmentsPage from "./pages/Appointments";
-import TasksPage from "./pages/Tasks";
-import MaintenancePage from "./pages/Maintenance";
-import DocumentsPage from "./pages/Documents";
-import ReportsPage from "./pages/Reports";
-import { tasks, maintenanceRequests, enquiries } from "./lib/data";
+import Residents from "./pages/Residents";
+import Units from "./pages/Units";
+import Contracts from "./pages/Contracts";
 
-// Compute badge counts
-const taskBadge = tasks.filter(t => t.status === 'Overdue').length;
-const maintenanceBadge = maintenanceRequests.filter(m => m.priority === 'Urgent' && m.status !== 'Completed').length;
-const enquiryBadge = enquiries.filter(e => e.status === 'New').length;
+// Sales pages
+import Leads from "./pages/Leads";
+import Waitlist from "./pages/Waitlist";
+import Appointments from "./pages/Appointments";
 
-function AppLayout({ children }: { children: React.ReactNode }) {
-  return (
-    <Layout taskBadge={taskBadge} maintenanceBadge={maintenanceBadge} enquiryBadge={enquiryBadge}>
-      {children}
-    </Layout>
-  );
-}
+// Operations pages
+import Tasks from "./pages/Tasks";
+import Maintenance from "./pages/Maintenance";
+import SimCards from "./pages/SimCards";
+
+// Admin pages
+import Reports from "./pages/Reports";
+import Templates from "./pages/Templates";
+import Documents from "./pages/Documents";
+import ResidentOnboarding from "./pages/ResidentOnboarding";
 
 function Router() {
   return (
-    <Switch>
-      <Route path="/" component={() => <AppLayout><Dashboard /></AppLayout>} />
-      <Route path="/residents" component={() => <AppLayout><ResidentsPage /></AppLayout>} />
-      <Route path="/units" component={() => <AppLayout><UnitsPage /></AppLayout>} />
-      <Route path="/contracts" component={() => <AppLayout><ContractsPage /></AppLayout>} />
-      <Route path="/enquiries" component={() => <AppLayout><EnquiriesPage /></AppLayout>} />
-      <Route path="/waitlist" component={() => <AppLayout><WaitlistPage /></AppLayout>} />
-      <Route path="/appointments" component={() => <AppLayout><AppointmentsPage /></AppLayout>} />
-      <Route path="/tasks" component={() => <AppLayout><TasksPage /></AppLayout>} />
-      <Route path="/maintenance" component={() => <AppLayout><MaintenancePage /></AppLayout>} />
-      <Route path="/documents" component={() => <AppLayout><DocumentsPage /></AppLayout>} />
-      <Route path="/reports" component={() => <AppLayout><ReportsPage /></AppLayout>} />
-      <Route path="/404" component={NotFound} />
-      <Route component={NotFound} />
-    </Switch>
+    <Layout taskBadge={3} maintenanceBadge={2}>
+      <Switch>
+        <Route path="/" component={Dashboard} />
+        <Route path="/residents" component={Residents} />
+        <Route path="/units" component={Units} />
+        <Route path="/contracts" component={Contracts} />
+        <Route path="/leads" component={Leads} />
+        <Route path="/waitlist" component={Waitlist} />
+        <Route path="/appointments" component={Appointments} />
+        <Route path="/tasks" component={Tasks} />
+        <Route path="/maintenance" component={Maintenance} />
+        <Route path="/sim-cards" component={SimCards} />
+        <Route path="/reports" component={Reports} />
+        <Route path="/templates" component={Templates} />
+        <Route path="/documents" component={Documents} />
+        <Route path="/onboarding" component={ResidentOnboarding} />
+        <Route path="/404" component={NotFound} />
+        <Route component={NotFound} />
+      </Switch>
+    </Layout>
   );
 }
 
@@ -59,7 +58,7 @@ function App() {
     <ErrorBoundary>
       <ThemeProvider defaultTheme="light">
         <TooltipProvider>
-          <Toaster position="bottom-right" richColors />
+          <Toaster />
           <Router />
         </TooltipProvider>
       </ThemeProvider>

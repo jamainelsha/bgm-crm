@@ -1,58 +1,56 @@
-// BGM CRM — Waitlist Page
+// Barrina Gardens CRM — Waitlist Page
+import { useMemo } from "react";
+import { ListOrdered, Phone, Mail, Calendar } from "lucide-react";
+import { Card, CardContent } from "@/components/ui/card";
+import { leads, formatDate } from "@/lib/data";
 
-import { enquiries, formatDate } from '@/lib/data';
-import { Button } from '@/components/ui/button';
-import { toast } from 'sonner';
-import { ClipboardList, Phone, Mail, ArrowUp, ArrowDown } from 'lucide-react';
+const C = { green: "oklch(0.48 0.12 145)", amber: "oklch(0.72 0.14 80)" };
 
-export default function WaitlistPage() {
-  const waitlisted = enquiries
-    .filter(e => e.status === 'Waitlisted' && e.waitlistPosition)
-    .sort((a, b) => (a.waitlistPosition || 99) - (b.waitlistPosition || 99));
+export default function Waitlist() {
+  const waitlistLeads = useMemo(() =>
+    leads.filter(l => l.status === "Waitlist").sort((a, b) => {
+      const da = a.contactDate || "";
+      const db = b.contactDate || "";
+      return da.localeCompare(db);
+    }), []
+  );
 
   return (
-    <div className="p-5 space-y-5">
-      <div className="flex items-center justify-between">
-        <div>
-          <h1 className="page-title">Waitlist</h1>
-          <p className="page-subtitle">{waitlisted.length} prospects on waitlist</p>
-        </div>
-        <Button size="sm" className="gap-1.5 text-xs" onClick={() => toast.info('Add to waitlist coming soon.')}>
-          Add to Waitlist
-        </Button>
+    <div className="flex flex-col h-full overflow-hidden">
+      <div className="p-4 border-b border-border bg-card">
+        <h1 className="text-lg font-bold text-foreground" style={{ fontFamily: "playfair display, serif" }}>Waitlist</h1>
+        <p className="text-xs text-muted-foreground mt-1">{waitlistLeads.length} prospects on waitlist</p>
       </div>
-
-      {waitlisted.length === 0 ? (
-        <div className="flex flex-col items-center justify-center h-40 text-muted-foreground">
-          <ClipboardList className="w-8 h-8 mb-2 opacity-40" />
-          <p className="text-sm">No prospects on waitlist</p>
-        </div>
-      ) : (
-        <div className="space-y-3">
-          {waitlisted.map((e, idx) => (
-            <div key={e.id} className="bg-card border border-border rounded-lg p-4 flex items-center gap-4">
-              <div className="w-10 h-10 rounded-full flex items-center justify-center text-base font-bold text-white shrink-0"
-                style={{ background: 'oklch(0.62 0.14 50)' }}>
-                #{e.waitlistPosition}
-              </div>
-              <div className="flex-1 min-w-0">
-                <div className="font-medium text-sm">{e.title} {e.firstName} {e.lastName}</div>
-                <div className="flex flex-wrap items-center gap-3 mt-1 text-xs text-muted-foreground">
-                  {e.mobile && <span className="flex items-center gap-1"><Phone className="w-3 h-3" />{e.mobile}</span>}
-                  {e.email && <span className="flex items-center gap-1"><Mail className="w-3 h-3" />{e.email}</span>}
-                  <span>Preference: {e.preferredUnitType || 'Any'}</span>
-                  {e.budget && <span>Budget: ${e.budget.toLocaleString()}</span>}
-                </div>
-              </div>
-              <div className="flex items-center gap-1">
-                <Button size="sm" variant="ghost" className="h-7 w-7 p-0" onClick={() => toast.info('Move up coming soon.')}><ArrowUp className="w-3.5 h-3.5" /></Button>
-                <Button size="sm" variant="ghost" className="h-7 w-7 p-0" onClick={() => toast.info('Move down coming soon.')}><ArrowDown className="w-3.5 h-3.5" /></Button>
-                <Button size="sm" variant="outline" className="text-xs h-7 ml-1" onClick={() => toast.info('Contact prospect coming soon.')}>Contact</Button>
-              </div>
-            </div>
-          ))}
-        </div>
-      )}
+      <div className="flex-1 overflow-y-auto p-4">
+        {waitlistLeads.length === 0 ? (
+          <div className="text-center py-16 text-muted-foreground">
+            <ListOrdered size={48} className="mx-auto mb-3 opacity-20" />
+            <p className="text-sm">No prospects on the waitlist</p>
+          </div>
+        ) : (
+          <div className="space-y-2">
+            {waitlistLeads.map((lead, idx) => (
+              <Card key={lead.id} className="hover:shadow-sm transition-shadow">
+                <CardContent className="py-3 px-4 flex items-center gap-4">
+                  <div className="w-8 h-8 rounded-full flex items-center justify-center text-sm font-bold text-white flex-shrink-0" style={{ background: C.green }}>
+                    {idx + 1}
+                  </div>
+                  <div className="min-w-0 flex-1">
+                    <p className="text-sm font-medium text-foreground">{lead.name}</p>
+                    <p className="text-xs text-muted-foreground">{lead.leadSource || "Unknown source"}</p>
+                    {lead.notes && <p className="text-xs text-muted-foreground truncate italic mt-0.5">{lead.notes.slice(0, 80)}{lead.notes.length > 80 ? "..." : ""}</p>}
+                  </div>
+                  <div className="flex flex-col items-end gap-1 flex-shrink-0 text-xs text-muted-foreground">
+                    {lead.phone && <span className="flex items-center gap-1"><Phone size={10} />{lead.phone}</span>}
+                    {lead.email && <span className="flex items-center gap-1 truncate max-w-32"><Mail size={10} />{lead.email}</span>}
+                    {lead.contactDate && <span className="flex items-center gap-1"><Calendar size={10} />{formatDate(lead.contactDate)}</span>}
+                  </div>
+                </CardContent>
+              </Card>
+            ))}
+          </div>
+        )}
+      </div>
     </div>
   );
 }

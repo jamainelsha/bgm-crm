@@ -1,4 +1,4 @@
-// Barrina Gardens CRM — Layout Component
+layout_content = r"""// Barrina Gardens CRM — Layout Component
 // Brand: forest green (#4a7c2f) + warm brown (#5c3d1e) + navy sidebar (#1A2332)
 import { useState } from 'react';
 import { Link, useLocation } from 'wouter';
@@ -343,3 +343,9 @@ export default function Layout({ children, taskBadge, maintenanceBadge }: Layout
     </div>
   );
 }
+"""
+
+with open('/home/ubuntu/bgm-crm/client/src/components/Layout.tsx', 'w') as f:
+    f.write(layout_content)
+
+print("Layout.tsx written successfully, size:", len(layout_content))

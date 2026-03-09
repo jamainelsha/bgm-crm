@@ -1,0 +1,167 @@
+[
+  {
+    "step_number": 1,
+    "step_name": "Vendor Sales Authority  (Signed and saved on file)",
+    "default_assigned_to": "Mike"
+  },
+  {
+    "step_number": 2,
+    "step_name": "Send Vendor Sales Authority to Mayfair Legal",
+    "default_assigned_to": "Mike"
+  },
+  {
+    "step_number": 3,
+    "step_name": "Vendor engaged lawyer to trigger COS",
+    "default_assigned_to": "Mike"
+  },
+  {
+    "step_number": 4,
+    "step_name": "Special terms and conditions sent to Vendors Lawyer",
+    "default_assigned_to": "Mayfair"
+  },
+  {
+    "step_number": 5,
+    "step_name": "Marketing Invoice Sent to Vendor",
+    "default_assigned_to": "Mike"
+  },
+  {
+    "step_number": 6,
+    "step_name": "Marketing Invoice Paid",
+    "default_assigned_to": "Mike"
+  },
+  {
+    "step_number": 7,
+    "step_name": "Photography Completed",
+    "default_assigned_to": "Mike"
+  },
+  {
+    "step_number": 8,
+    "step_name": "Online listings Completed REA, Barrina Webiste, Villages.com",
+    "default_assigned_to": "Mike"
+  },
+  {
+    "step_number": 9,
+    "step_name": "Contract of Sale Draft complete and sent by Mayfair Legal to Vendors Representative",
+    "default_assigned_to": "Mayfair"
+  },
+  {
+    "step_number": 10,
+    "step_name": "Building and Pest Inspection Report Completed (NEW)",
+    "default_assigned_to": "Mike"
+  },
+  {
+    "step_number": 11,
+    "step_name": "Add to Current Units Price Guide for Katherine",
+    "default_assigned_to": "Mike"
+  },
+  {
+    "step_number": 12,
+    "step_name": "Signed EOI received and saved on file",
+    "default_assigned_to": "Mike"
+  },
+  {
+    "step_number": 13,
+    "step_name": "EOI Deposit paid to  Trust Account",
+    "default_assigned_to": "Mike"
+  },
+  {
+    "step_number": 14,
+    "step_name": "EOI Deposit Trust Receipt Sent to Purchaser",
+    "default_assigned_to": "Mayfair"
+  },
+  {
+    "step_number": 15,
+    "step_name": "Offer Put to vendor for approval in writing",
+    "default_assigned_to": "Sam"
+  },
+  {
+    "step_number": 16,
+    "step_name": "Vendor acceptance of offer in writing",
+    "default_assigned_to": "Mike/Sam"
+  },
+  {
+    "step_number": 17,
+    "step_name": "Purchaser Solicitor confirmed",
+    "default_assigned_to": "Mike"
+  },
+  {
+    "step_number": 18,
+    "step_name": "BGM contracts sent to Solicitor and Purchaser",
+    "default_assigned_to": "Mayfair"
+  },
+  {
+    "step_number": 19,
+    "step_name": "Send copy of COS and BGM Contracts to Purchaser",
+    "default_assigned_to": "Mike"
+  },
+  {
+    "step_number": 20,
+    "step_name": "Schedule Calender appointment to follow up in 21 days",
+    "default_assigned_to": "Mike"
+  },
+  {
+    "step_number": 21,
+    "step_name": "Contract of Sale Signed and Executed (BGP and Vendor)",
+    "default_assigned_to": "Mayfair"
+  },
+  {
+    "step_number": 22,
+    "step_name": "Loan Lease and Management Agreement Signed and saved on file",
+    "default_assigned_to": "Mayfair/Mike"
+  },
+  {
+    "step_number": 23,
+    "step_name": "Renovations SOW issued  (signed and saved on file)",
+    "default_assigned_to": "Mike"
+  },
+  {
+    "step_number": 24,
+    "step_name": "Renovations payment method agreed in writing",
+    "default_assigned_to": "Mike"
+  },
+  {
+    "step_number": 25,
+    "step_name": "Renovations complete and paid",
+    "default_assigned_to": "Mike"
+  },
+  {
+    "step_number": 26,
+    "step_name": "Inspection of Renovations complete",
+    "default_assigned_to": "Mike"
+  },
+  {
+    "step_number": 27,
+    "step_name": "Keys, Arrival Pack and BGM Gift",
+    "default_assigned_to": "Katherine"
+  },
+  {
+    "step_number": 28,
+    "step_name": "Settlement Completed",
+    "default_assigned_to": "Mayfair/Mike"
+  },
+  {
+    "step_number": 29,
+    "step_name": "DMF Calculator Updated",
+    "default_assigned_to": "Sam"
+  },
+  {
+    "step_number": 30,
+    "step_name": "Receive settlement statement info from Mayfair",
+    "default_assigned_to": "Mayfair"
+  },
+  {
+    "step_number": 31,
+    "step_name": "Send completion documents to Jay to enter into MYOB",
+    "default_assigned_to": "Sam"
+  },
+  {
+    "step_number": 32,
+    "step_name": "Pay onsite managers commissions",
+    "default_assigned_to": "Jay/Laurain"
+  },
+  {
+    "step_number": 33,
+    "step_name": "Pay Mark his entitlements",
+    "default_assigned_to": "Laurain"
+  }
+]

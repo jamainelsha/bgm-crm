@@ -4,7 +4,7 @@ import { useState } from 'react';
 import { Link, useLocation } from 'wouter';
 import {
   LayoutDashboard, Users, Home, FileText, ClipboardList,
-  Wrench, Calendar, ListOrdered, BarChart3, FolderOpen,
+  ListOrdered, BarChart3, FolderOpen, GanttChartSquare,
   Smartphone, ChevronLeft, ChevronRight, Bell,
   Settings, UserCircle, ClipboardCheck,
   Menu, X, LogOut, Shield, ChevronDown
@@ -37,14 +37,13 @@ const navGroups = [
     items: [
       { href: '/leads', icon: ClipboardList, label: 'Leads & Enquiries' },
       { href: '/waitlist', icon: ListOrdered, label: 'Waitlist' },
-      { href: '/appointments', icon: Calendar, label: 'Appointments' },
+      { href: '/sales-gantt', icon: GanttChartSquare, label: 'Sales GANTT' },
     ]
   },
   {
     label: 'Operations',
     items: [
       { href: '/tasks', icon: ClipboardCheck, label: 'Tasks' },
-      { href: '/maintenance', icon: Wrench, label: 'Maintenance' },
       { href: '/sim-cards', icon: Smartphone, label: 'Emergency SIM Cards' },
     ]
   },

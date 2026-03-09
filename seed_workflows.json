@@ -1,0 +1,5920 @@
+[
+  {
+    "unit_id": 1,
+    "steps": [
+      {
+        "step_number": 1,
+        "step_name": "Vendor Sales Authority  (Signed and saved on file)",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 2,
+        "step_name": "Send Vendor Sales Authority to Mayfair Legal",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 3,
+        "step_name": "Vendor engaged lawyer to trigger COS",
+        "assigned_to": "Mike",
+        "status": "Completed",
+        "date_completed": null,
+        "notes": "Craig Mullen"
+      },
+      {
+        "step_number": 4,
+        "step_name": "Special terms and conditions sent to Vendors Lawyer",
+        "assigned_to": "Mayfair",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 5,
+        "step_name": "Marketing Invoice Sent to Vendor",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 6,
+        "step_name": "Marketing Invoice Paid",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 7,
+        "step_name": "Photography Completed",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 8,
+        "step_name": "Online listings Completed REA, Barrina Webiste, Villages.com",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 9,
+        "step_name": "Contract of Sale Draft complete and sent by Mayfair Legal to Vendors Representative",
+        "assigned_to": "Mayfair",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 10,
+        "step_name": "Building and Pest Inspection Report Completed (NEW)",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 11,
+        "step_name": "Add to Current Units Price Guide for Katherine",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 12,
+        "step_name": "Signed EOI received and saved on file",
+        "assigned_to": "Mike",
+        "status": "In Progress",
+        "date_completed": null,
+        "notes": "EOI"
+      },
+      {
+        "step_number": 13,
+        "step_name": "EOI Deposit paid to  Trust Account",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 14,
+        "step_name": "EOI Deposit Trust Receipt Sent to Purchaser",
+        "assigned_to": "Mayfair",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 15,
+        "step_name": "Offer Put to vendor for approval in writing",
+        "assigned_to": "Sam",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 16,
+        "step_name": "Vendor acceptance of offer in writing",
+        "assigned_to": "Mike/Sam",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 17,
+        "step_name": "Purchaser Solicitor confirmed",
+        "assigned_to": "Mike",
+        "status": "Completed",
+        "date_completed": null,
+        "notes": "John Stasinopoulos"
+      },
+      {
+        "step_number": 18,
+        "step_name": "BGM contracts sent to Solicitor and Purchaser",
+        "assigned_to": "Mayfair",
+        "status": "Completed",
+        "date_completed": "2024-05-03",
+        "notes": null
+      },
+      {
+        "step_number": 19,
+        "step_name": "Send copy of COS and BGM Contracts to Purchaser",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 20,
+        "step_name": "Schedule Calender appointment to follow up in 21 days",
+        "assigned_to": "Mike",
+        "status": "Completed",
+        "date_completed": "2024-05-24",
+        "notes": null
+      },
+      {
+        "step_number": 21,
+        "step_name": "Contract of Sale Signed and Executed (BGP and Vendor)",
+        "assigned_to": "Mayfair",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 22,
+        "step_name": "Loan Lease and Management Agreement Signed and saved on file",
+        "assigned_to": "Mayfair/Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 23,
+        "step_name": "Renovations SOW issued  (signed and saved on file)",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 24,
+        "step_name": "Renovations payment method agreed in writing",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 25,
+        "step_name": "Renovations complete and paid",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 26,
+        "step_name": "Inspection of Renovations complete",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 27,
+        "step_name": "Keys, Arrival Pack and BGM Gift",
+        "assigned_to": "Katherine",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 28,
+        "step_name": "Settlement Completed",
+        "assigned_to": "Mayfair/Mike",
+        "status": "Completed",
+        "date_completed": "2024-06-17",
+        "notes": null
+      },
+      {
+        "step_number": 29,
+        "step_name": "DMF Calculator Updated",
+        "assigned_to": "Sam",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 30,
+        "step_name": "Receive settlement statement info from Mayfair",
+        "assigned_to": "Mayfair",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 31,
+        "step_name": "Send completion documents to Jay to enter into MYOB",
+        "assigned_to": "Sam",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 32,
+        "step_name": "Pay onsite managers commissions",
+        "assigned_to": "Jay/Laurain",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 33,
+        "step_name": "Pay Mark his entitlements",
+        "assigned_to": "Laurain",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      }
+    ]
+  },
+  {
+    "unit_id": 3,
+    "steps": [
+      {
+        "step_number": 1,
+        "step_name": "Vendor Sales Authority  (Signed and saved on file)",
+        "assigned_to": "Mike",
+        "status": "Completed",
+        "date_completed": null,
+        "notes": "Vendor Sales Authority U03"
+      },
+      {
+        "step_number": 2,
+        "step_name": "Send Vendor Sales Authority to Mayfair Legal",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 3,
+        "step_name": "Vendor engaged lawyer to trigger COS",
+        "assigned_to": "Mike",
+        "status": "Completed",
+        "date_completed": null,
+        "notes": "Craig Mullen"
+      },
+      {
+        "step_number": 4,
+        "step_name": "Special terms and conditions sent to Vendors Lawyer",
+        "assigned_to": "Mayfair",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 5,
+        "step_name": "Marketing Invoice Sent to Vendor",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 6,
+        "step_name": "Marketing Invoice Paid",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 7,
+        "step_name": "Photography Completed",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 8,
+        "step_name": "Online listings Completed REA, Barrina Webiste, Villages.com",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 9,
+        "step_name": "Contract of Sale Draft complete and sent by Mayfair Legal to Vendors Representative",
+        "assigned_to": "Mayfair",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 10,
+        "step_name": "Building and Pest Inspection Report Completed (NEW)",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 11,
+        "step_name": "Add to Current Units Price Guide for Katherine",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 12,
+        "step_name": "Signed EOI received and saved on file",
+        "assigned_to": "Mike",
+        "status": "In Progress",
+        "date_completed": null,
+        "notes": "EOI"
+      },
+      {
+        "step_number": 13,
+        "step_name": "EOI Deposit paid to  Trust Account",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 14,
+        "step_name": "EOI Deposit Trust Receipt Sent to Purchaser",
+        "assigned_to": "Mayfair",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 15,
+        "step_name": "Offer Put to vendor for approval in writing",
+        "assigned_to": "Sam",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 16,
+        "step_name": "Vendor acceptance of offer in writing",
+        "assigned_to": "Mike/Sam",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 17,
+        "step_name": "Purchaser Solicitor confirmed",
+        "assigned_to": "Mike",
+        "status": "Completed",
+        "date_completed": null,
+        "notes": "Kevin Abbott"
+      },
+      {
+        "step_number": 18,
+        "step_name": "BGM contracts sent to Solicitor and Purchaser",
+        "assigned_to": "Mayfair",
+        "status": "Completed",
+        "date_completed": "2024-11-12",
+        "notes": null
+      },
+      {
+        "step_number": 19,
+        "step_name": "Send copy of COS and BGM Contracts to Purchaser",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 20,
+        "step_name": "Schedule Calender appointment to follow up in 21 days",
+        "assigned_to": "Mike",
+        "status": "Completed",
+        "date_completed": "2024-12-04",
+        "notes": null
+      },
+      {
+        "step_number": 21,
+        "step_name": "Contract of Sale Signed and Executed (BGP and Vendor)",
+        "assigned_to": "Mayfair",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 22,
+        "step_name": "Loan Lease and Management Agreement Signed and saved on file",
+        "assigned_to": "Mayfair/Mike",
+        "status": "Completed",
+        "date_completed": "2025-04-30",
+        "notes": null
+      },
+      {
+        "step_number": 23,
+        "step_name": "Renovations SOW issued  (signed and saved on file)",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 24,
+        "step_name": "Renovations payment method agreed in writing",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 25,
+        "step_name": "Renovations complete and paid",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 26,
+        "step_name": "Inspection of Renovations complete",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 27,
+        "step_name": "Keys, Arrival Pack and BGM Gift",
+        "assigned_to": "Katherine",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 28,
+        "step_name": "Settlement Completed",
+        "assigned_to": "Mayfair/Mike",
+        "status": "Completed",
+        "date_completed": "2024-12-20",
+        "notes": null
+      },
+      {
+        "step_number": 29,
+        "step_name": "DMF Calculator Updated",
+        "assigned_to": "Sam",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 30,
+        "step_name": "Receive settlement statement info from Mayfair",
+        "assigned_to": "Mayfair",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 31,
+        "step_name": "Send completion documents to Jay to enter into MYOB",
+        "assigned_to": "Sam",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 32,
+        "step_name": "Pay onsite managers commissions",
+        "assigned_to": "Jay/Laurain",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 33,
+        "step_name": "Pay Mark his entitlements",
+        "assigned_to": "Laurain",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      }
+    ]
+  },
+  {
+    "unit_id": 5,
+    "steps": [
+      {
+        "step_number": 1,
+        "step_name": "Vendor Sales Authority  (Signed and saved on file)",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 2,
+        "step_name": "Send Vendor Sales Authority to Mayfair Legal",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 3,
+        "step_name": "Vendor engaged lawyer to trigger COS",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 4,
+        "step_name": "Special terms and conditions sent to Vendors Lawyer",
+        "assigned_to": "Mayfair",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 5,
+        "step_name": "Marketing Invoice Sent to Vendor",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 6,
+        "step_name": "Marketing Invoice Paid",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 7,
+        "step_name": "Photography Completed",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 8,
+        "step_name": "Online listings Completed REA, Barrina Webiste, Villages.com",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 9,
+        "step_name": "Contract of Sale Draft complete and sent by Mayfair Legal to Vendors Representative",
+        "assigned_to": "Mayfair",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 10,
+        "step_name": "Building and Pest Inspection Report Completed (NEW)",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 11,
+        "step_name": "Add to Current Units Price Guide for Katherine",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 12,
+        "step_name": "Signed EOI received and saved on file",
+        "assigned_to": "Mike",
+        "status": "In Progress",
+        "date_completed": null,
+        "notes": "EOI"
+      },
+      {
+        "step_number": 13,
+        "step_name": "EOI Deposit paid to  Trust Account",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 14,
+        "step_name": "EOI Deposit Trust Receipt Sent to Purchaser",
+        "assigned_to": "Mayfair",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 15,
+        "step_name": "Offer Put to vendor for approval in writing",
+        "assigned_to": "Sam",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 16,
+        "step_name": "Vendor acceptance of offer in writing",
+        "assigned_to": "Mike/Sam",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 17,
+        "step_name": "Purchaser Solicitor confirmed",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 18,
+        "step_name": "BGM contracts sent to Solicitor and Purchaser",
+        "assigned_to": "Mayfair",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 19,
+        "step_name": "Send copy of COS and BGM Contracts to Purchaser",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 20,
+        "step_name": "Schedule Calender appointment to follow up in 21 days",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 21,
+        "step_name": "Contract of Sale Signed and Executed (BGP and Vendor)",
+        "assigned_to": "Mayfair",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 22,
+        "step_name": "Loan Lease and Management Agreement Signed and saved on file",
+        "assigned_to": "Mayfair/Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 23,
+        "step_name": "Renovations SOW issued  (signed and saved on file)",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 24,
+        "step_name": "Renovations payment method agreed in writing",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 25,
+        "step_name": "Renovations complete and paid",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 26,
+        "step_name": "Inspection of Renovations complete",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 27,
+        "step_name": "Keys, Arrival Pack and BGM Gift",
+        "assigned_to": "Katherine",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 28,
+        "step_name": "Settlement Completed",
+        "assigned_to": "Mayfair/Mike",
+        "status": "Completed",
+        "date_completed": "2024-06-22",
+        "notes": null
+      },
+      {
+        "step_number": 29,
+        "step_name": "DMF Calculator Updated",
+        "assigned_to": "Sam",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 30,
+        "step_name": "Receive settlement statement info from Mayfair",
+        "assigned_to": "Mayfair",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 31,
+        "step_name": "Send completion documents to Jay to enter into MYOB",
+        "assigned_to": "Sam",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 32,
+        "step_name": "Pay onsite managers commissions",
+        "assigned_to": "Jay/Laurain",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 33,
+        "step_name": "Pay Mark his entitlements",
+        "assigned_to": "Laurain",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      }
+    ]
+  },
+  {
+    "unit_id": 6,
+    "steps": [
+      {
+        "step_number": 1,
+        "step_name": "Vendor Sales Authority  (Signed and saved on file)",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 2,
+        "step_name": "Send Vendor Sales Authority to Mayfair Legal",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 3,
+        "step_name": "Vendor engaged lawyer to trigger COS",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 4,
+        "step_name": "Special terms and conditions sent to Vendors Lawyer",
+        "assigned_to": "Mayfair",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 5,
+        "step_name": "Marketing Invoice Sent to Vendor",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 6,
+        "step_name": "Marketing Invoice Paid",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 7,
+        "step_name": "Photography Completed",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 8,
+        "step_name": "Online listings Completed REA, Barrina Webiste, Villages.com",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 9,
+        "step_name": "Contract of Sale Draft complete and sent by Mayfair Legal to Vendors Representative",
+        "assigned_to": "Mayfair",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 10,
+        "step_name": "Building and Pest Inspection Report Completed (NEW)",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 11,
+        "step_name": "Add to Current Units Price Guide for Katherine",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 12,
+        "step_name": "Signed EOI received and saved on file",
+        "assigned_to": "Mike",
+        "status": "In Progress",
+        "date_completed": null,
+        "notes": "EOI"
+      },
+      {
+        "step_number": 13,
+        "step_name": "EOI Deposit paid to  Trust Account",
+        "assigned_to": "Mike",
+        "status": "Completed",
+        "date_completed": "2026-01-02",
+        "notes": null
+      },
+      {
+        "step_number": 14,
+        "step_name": "EOI Deposit Trust Receipt Sent to Purchaser",
+        "assigned_to": "Mayfair",
+        "status": "Completed",
+        "date_completed": "2026-01-07",
+        "notes": null
+      },
+      {
+        "step_number": 15,
+        "step_name": "Offer Put to vendor for approval in writing",
+        "assigned_to": "Sam",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 16,
+        "step_name": "Vendor acceptance of offer in writing",
+        "assigned_to": "Mike/Sam",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 17,
+        "step_name": "Purchaser Solicitor confirmed",
+        "assigned_to": "Mike",
+        "status": "Completed",
+        "date_completed": null,
+        "notes": "John Natoli"
+      },
+      {
+        "step_number": 18,
+        "step_name": "BGM contracts sent to Solicitor and Purchaser",
+        "assigned_to": "Mayfair",
+        "status": "Completed",
+        "date_completed": "2026-01-30",
+        "notes": null
+      },
+      {
+        "step_number": 19,
+        "step_name": "Send copy of COS and BGM Contracts to Purchaser",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 20,
+        "step_name": "Schedule Calender appointment to follow up in 21 days",
+        "assigned_to": "Mike",
+        "status": "Completed",
+        "date_completed": "2026-02-20",
+        "notes": null
+      },
+      {
+        "step_number": 21,
+        "step_name": "Contract of Sale Signed and Executed (BGP and Vendor)",
+        "assigned_to": "Mayfair",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 22,
+        "step_name": "Loan Lease and Management Agreement Signed and saved on file",
+        "assigned_to": "Mayfair/Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 23,
+        "step_name": "Renovations SOW issued  (signed and saved on file)",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 24,
+        "step_name": "Renovations payment method agreed in writing",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 25,
+        "step_name": "Renovations complete and paid",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 26,
+        "step_name": "Inspection of Renovations complete",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 27,
+        "step_name": "Keys, Arrival Pack and BGM Gift",
+        "assigned_to": "Katherine",
+        "status": "In Progress",
+        "date_completed": null,
+        "notes": "keys received"
+      },
+      {
+        "step_number": 28,
+        "step_name": "Settlement Completed",
+        "assigned_to": "Mayfair/Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 29,
+        "step_name": "DMF Calculator Updated",
+        "assigned_to": "Sam",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 30,
+        "step_name": "Receive settlement statement info from Mayfair",
+        "assigned_to": "Mayfair",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 31,
+        "step_name": "Send completion documents to Jay to enter into MYOB",
+        "assigned_to": "Sam",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 32,
+        "step_name": "Pay onsite managers commissions",
+        "assigned_to": "Jay/Laurain",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 33,
+        "step_name": "Pay Mark his entitlements",
+        "assigned_to": "Laurain",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      }
+    ]
+  },
+  {
+    "unit_id": 7,
+    "steps": [
+      {
+        "step_number": 1,
+        "step_name": "Vendor Sales Authority  (Signed and saved on file)",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 2,
+        "step_name": "Send Vendor Sales Authority to Mayfair Legal",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 3,
+        "step_name": "Vendor engaged lawyer to trigger COS",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 4,
+        "step_name": "Special terms and conditions sent to Vendors Lawyer",
+        "assigned_to": "Mayfair",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 5,
+        "step_name": "Marketing Invoice Sent to Vendor",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 6,
+        "step_name": "Marketing Invoice Paid",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 7,
+        "step_name": "Photography Completed",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 8,
+        "step_name": "Online listings Completed REA, Barrina Webiste, Villages.com",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 9,
+        "step_name": "Contract of Sale Draft complete and sent by Mayfair Legal to Vendors Representative",
+        "assigned_to": "Mayfair",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 10,
+        "step_name": "Building and Pest Inspection Report Completed (NEW)",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 11,
+        "step_name": "Add to Current Units Price Guide for Katherine",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 12,
+        "step_name": "Signed EOI received and saved on file",
+        "assigned_to": "Mike",
+        "status": "In Progress",
+        "date_completed": null,
+        "notes": "EOI"
+      },
+      {
+        "step_number": 13,
+        "step_name": "EOI Deposit paid to  Trust Account",
+        "assigned_to": "Mike",
+        "status": "Completed",
+        "date_completed": "2025-05-26",
+        "notes": null
+      },
+      {
+        "step_number": 14,
+        "step_name": "EOI Deposit Trust Receipt Sent to Purchaser",
+        "assigned_to": "Mayfair",
+        "status": "Completed",
+        "date_completed": "2025-06-30",
+        "notes": null
+      },
+      {
+        "step_number": 15,
+        "step_name": "Offer Put to vendor for approval in writing",
+        "assigned_to": "Sam",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 16,
+        "step_name": "Vendor acceptance of offer in writing",
+        "assigned_to": "Mike/Sam",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 17,
+        "step_name": "Purchaser Solicitor confirmed",
+        "assigned_to": "Mike",
+        "status": "Completed",
+        "date_completed": null,
+        "notes": "Belinda O'Halloran"
+      },
+      {
+        "step_number": 18,
+        "step_name": "BGM contracts sent to Solicitor and Purchaser",
+        "assigned_to": "Mayfair",
+        "status": "Completed",
+        "date_completed": "2025-06-30",
+        "notes": null
+      },
+      {
+        "step_number": 19,
+        "step_name": "Send copy of COS and BGM Contracts to Purchaser",
+        "assigned_to": "Mike",
+        "status": "Completed",
+        "date_completed": "2025-06-30",
+        "notes": null
+      },
+      {
+        "step_number": 20,
+        "step_name": "Schedule Calender appointment to follow up in 21 days",
+        "assigned_to": "Mike",
+        "status": "Completed",
+        "date_completed": "2025-07-21",
+        "notes": null
+      },
+      {
+        "step_number": 21,
+        "step_name": "Contract of Sale Signed and Executed (BGP and Vendor)",
+        "assigned_to": "Mayfair",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 22,
+        "step_name": "Loan Lease and Management Agreement Signed and saved on file",
+        "assigned_to": "Mayfair/Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 23,
+        "step_name": "Renovations SOW issued  (signed and saved on file)",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 24,
+        "step_name": "Renovations payment method agreed in writing",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 25,
+        "step_name": "Renovations complete and paid",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 26,
+        "step_name": "Inspection of Renovations complete",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 27,
+        "step_name": "Keys, Arrival Pack and BGM Gift",
+        "assigned_to": "Katherine",
+        "status": "Completed",
+        "date_completed": null,
+        "notes": "renting as of 01/09/25"
+      },
+      {
+        "step_number": 28,
+        "step_name": "Settlement Completed",
+        "assigned_to": "Mayfair/Mike",
+        "status": "Completed",
+        "date_completed": "2025-12-01",
+        "notes": null
+      },
+      {
+        "step_number": 29,
+        "step_name": "DMF Calculator Updated",
+        "assigned_to": "Sam",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 30,
+        "step_name": "Receive settlement statement info from Mayfair",
+        "assigned_to": "Mayfair",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 31,
+        "step_name": "Send completion documents to Jay to enter into MYOB",
+        "assigned_to": "Sam",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 32,
+        "step_name": "Pay onsite managers commissions",
+        "assigned_to": "Jay/Laurain",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 33,
+        "step_name": "Pay Mark his entitlements",
+        "assigned_to": "Laurain",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      }
+    ]
+  },
+  {
+    "unit_id": 11,
+    "steps": [
+      {
+        "step_number": 1,
+        "step_name": "Vendor Sales Authority  (Signed and saved on file)",
+        "assigned_to": "Mike",
+        "status": "Completed",
+        "date_completed": null,
+        "notes": "Vendor Sales Authority U11"
+      },
+      {
+        "step_number": 2,
+        "step_name": "Send Vendor Sales Authority to Mayfair Legal",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 3,
+        "step_name": "Vendor engaged lawyer to trigger COS",
+        "assigned_to": "Mike",
+        "status": "Completed",
+        "date_completed": null,
+        "notes": "Craig Mullen"
+      },
+      {
+        "step_number": 4,
+        "step_name": "Special terms and conditions sent to Vendors Lawyer",
+        "assigned_to": "Mayfair",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 5,
+        "step_name": "Marketing Invoice Sent to Vendor",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 6,
+        "step_name": "Marketing Invoice Paid",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 7,
+        "step_name": "Photography Completed",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 8,
+        "step_name": "Online listings Completed REA, Barrina Webiste, Villages.com",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 9,
+        "step_name": "Contract of Sale Draft complete and sent by Mayfair Legal to Vendors Representative",
+        "assigned_to": "Mayfair",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 10,
+        "step_name": "Building and Pest Inspection Report Completed (NEW)",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 11,
+        "step_name": "Add to Current Units Price Guide for Katherine",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 12,
+        "step_name": "Signed EOI received and saved on file",
+        "assigned_to": "Mike",
+        "status": "In Progress",
+        "date_completed": null,
+        "notes": "EOI"
+      },
+      {
+        "step_number": 13,
+        "step_name": "EOI Deposit paid to  Trust Account",
+        "assigned_to": "Mike",
+        "status": "Completed",
+        "date_completed": "2025-08-01",
+        "notes": null
+      },
+      {
+        "step_number": 14,
+        "step_name": "EOI Deposit Trust Receipt Sent to Purchaser",
+        "assigned_to": "Mayfair",
+        "status": "Completed",
+        "date_completed": "2025-08-08",
+        "notes": null
+      },
+      {
+        "step_number": 15,
+        "step_name": "Offer Put to vendor for approval in writing",
+        "assigned_to": "Sam",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 16,
+        "step_name": "Vendor acceptance of offer in writing",
+        "assigned_to": "Mike/Sam",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 17,
+        "step_name": "Purchaser Solicitor confirmed",
+        "assigned_to": "Mike",
+        "status": "Completed",
+        "date_completed": null,
+        "notes": "Jesse Roberts"
+      },
+      {
+        "step_number": 18,
+        "step_name": "BGM contracts sent to Solicitor and Purchaser",
+        "assigned_to": "Mayfair",
+        "status": "Completed",
+        "date_completed": "2025-08-08",
+        "notes": null
+      },
+      {
+        "step_number": 19,
+        "step_name": "Send copy of COS and BGM Contracts to Purchaser",
+        "assigned_to": "Mike",
+        "status": "Completed",
+        "date_completed": "2025-08-11",
+        "notes": null
+      },
+      {
+        "step_number": 20,
+        "step_name": "Schedule Calender appointment to follow up in 21 days",
+        "assigned_to": "Mike",
+        "status": "Completed",
+        "date_completed": "2025-08-29",
+        "notes": null
+      },
+      {
+        "step_number": 21,
+        "step_name": "Contract of Sale Signed and Executed (BGP and Vendor)",
+        "assigned_to": "Mayfair",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 22,
+        "step_name": "Loan Lease and Management Agreement Signed and saved on file",
+        "assigned_to": "Mayfair/Mike",
+        "status": "Completed",
+        "date_completed": "2025-10-21",
+        "notes": null
+      },
+      {
+        "step_number": 23,
+        "step_name": "Renovations SOW issued  (signed and saved on file)",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 24,
+        "step_name": "Renovations payment method agreed in writing",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 25,
+        "step_name": "Renovations complete and paid",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 26,
+        "step_name": "Inspection of Renovations complete",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 27,
+        "step_name": "Keys, Arrival Pack and BGM Gift",
+        "assigned_to": "Katherine",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 28,
+        "step_name": "Settlement Completed",
+        "assigned_to": "Mayfair/Mike",
+        "status": "Completed",
+        "date_completed": "2025-10-22",
+        "notes": null
+      },
+      {
+        "step_number": 29,
+        "step_name": "DMF Calculator Updated",
+        "assigned_to": "Sam",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 30,
+        "step_name": "Receive settlement statement info from Mayfair",
+        "assigned_to": "Mayfair",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 31,
+        "step_name": "Send completion documents to Jay to enter into MYOB",
+        "assigned_to": "Sam",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 32,
+        "step_name": "Pay onsite managers commissions",
+        "assigned_to": "Jay/Laurain",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 33,
+        "step_name": "Pay Mark his entitlements",
+        "assigned_to": "Laurain",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      }
+    ]
+  },
+  {
+    "unit_id": 15,
+    "steps": [
+      {
+        "step_number": 1,
+        "step_name": "Vendor Sales Authority  (Signed and saved on file)",
+        "assigned_to": "Mike",
+        "status": "Completed",
+        "date_completed": null,
+        "notes": "Barrina not acting as Agent"
+      },
+      {
+        "step_number": 2,
+        "step_name": "Send Vendor Sales Authority to Mayfair Legal",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 3,
+        "step_name": "Vendor engaged lawyer to trigger COS",
+        "assigned_to": "Mike",
+        "status": "Completed",
+        "date_completed": null,
+        "notes": "Chris Karamanolis"
+      },
+      {
+        "step_number": 4,
+        "step_name": "Special terms and conditions sent to Vendors Lawyer",
+        "assigned_to": "Mayfair",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 5,
+        "step_name": "Marketing Invoice Sent to Vendor",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 6,
+        "step_name": "Marketing Invoice Paid",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 7,
+        "step_name": "Photography Completed",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 8,
+        "step_name": "Online listings Completed REA, Barrina Webiste, Villages.com",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 9,
+        "step_name": "Contract of Sale Draft complete and sent by Mayfair Legal to Vendors Representative",
+        "assigned_to": "Mayfair",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 10,
+        "step_name": "Building and Pest Inspection Report Completed (NEW)",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 11,
+        "step_name": "Add to Current Units Price Guide for Katherine",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 12,
+        "step_name": "Signed EOI received and saved on file",
+        "assigned_to": "Mike",
+        "status": "In Progress",
+        "date_completed": null,
+        "notes": "EOI"
+      },
+      {
+        "step_number": 13,
+        "step_name": "EOI Deposit paid to  Trust Account",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 14,
+        "step_name": "EOI Deposit Trust Receipt Sent to Purchaser",
+        "assigned_to": "Mayfair",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 15,
+        "step_name": "Offer Put to vendor for approval in writing",
+        "assigned_to": "Sam",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 16,
+        "step_name": "Vendor acceptance of offer in writing",
+        "assigned_to": "Mike/Sam",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 17,
+        "step_name": "Purchaser Solicitor confirmed",
+        "assigned_to": "Mike",
+        "status": "Completed",
+        "date_completed": null,
+        "notes": "Andrew Yu"
+      },
+      {
+        "step_number": 18,
+        "step_name": "BGM contracts sent to Solicitor and Purchaser",
+        "assigned_to": "Mayfair",
+        "status": "Completed",
+        "date_completed": "2025-01-15",
+        "notes": null
+      },
+      {
+        "step_number": 19,
+        "step_name": "Send copy of COS and BGM Contracts to Purchaser",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 20,
+        "step_name": "Schedule Calender appointment to follow up in 21 days",
+        "assigned_to": "Mike",
+        "status": "Completed",
+        "date_completed": "2025-01-19",
+        "notes": null
+      },
+      {
+        "step_number": 21,
+        "step_name": "Contract of Sale Signed and Executed (BGP and Vendor)",
+        "assigned_to": "Mayfair",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 22,
+        "step_name": "Loan Lease and Management Agreement Signed and saved on file",
+        "assigned_to": "Mayfair/Mike",
+        "status": "Completed",
+        "date_completed": "2025-03-12",
+        "notes": null
+      },
+      {
+        "step_number": 23,
+        "step_name": "Renovations SOW issued  (signed and saved on file)",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 24,
+        "step_name": "Renovations payment method agreed in writing",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 25,
+        "step_name": "Renovations complete and paid",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 26,
+        "step_name": "Inspection of Renovations complete",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 27,
+        "step_name": "Keys, Arrival Pack and BGM Gift",
+        "assigned_to": "Katherine",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 28,
+        "step_name": "Settlement Completed",
+        "assigned_to": "Mayfair/Mike",
+        "status": "Completed",
+        "date_completed": "2025-01-19",
+        "notes": null
+      },
+      {
+        "step_number": 29,
+        "step_name": "DMF Calculator Updated",
+        "assigned_to": "Sam",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 30,
+        "step_name": "Receive settlement statement info from Mayfair",
+        "assigned_to": "Mayfair",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 31,
+        "step_name": "Send completion documents to Jay to enter into MYOB",
+        "assigned_to": "Sam",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 32,
+        "step_name": "Pay onsite managers commissions",
+        "assigned_to": "Jay/Laurain",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 33,
+        "step_name": "Pay Mark his entitlements",
+        "assigned_to": "Laurain",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      }
+    ]
+  },
+  {
+    "unit_id": 18,
+    "steps": [
+      {
+        "step_number": 1,
+        "step_name": "Vendor Sales Authority  (Signed and saved on file)",
+        "assigned_to": "Mike",
+        "status": "Completed",
+        "date_completed": null,
+        "notes": "Vendor Sales Authority U18"
+      },
+      {
+        "step_number": 2,
+        "step_name": "Send Vendor Sales Authority to Mayfair Legal",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 3,
+        "step_name": "Vendor engaged lawyer to trigger COS",
+        "assigned_to": "Mike",
+        "status": "Completed",
+        "date_completed": null,
+        "notes": "Pey Wei Yeong"
+      },
+      {
+        "step_number": 4,
+        "step_name": "Special terms and conditions sent to Vendors Lawyer",
+        "assigned_to": "Mayfair",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 5,
+        "step_name": "Marketing Invoice Sent to Vendor",
+        "assigned_to": "Mike",
+        "status": "Completed",
+        "date_completed": "2024-05-21",
+        "notes": null
+      },
+      {
+        "step_number": 6,
+        "step_name": "Marketing Invoice Paid",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 7,
+        "step_name": "Photography Completed",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 8,
+        "step_name": "Online listings Completed REA, Barrina Webiste, Villages.com",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 9,
+        "step_name": "Contract of Sale Draft complete and sent by Mayfair Legal to Vendors Representative",
+        "assigned_to": "Mayfair",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 10,
+        "step_name": "Building and Pest Inspection Report Completed (NEW)",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 11,
+        "step_name": "Add to Current Units Price Guide for Katherine",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 12,
+        "step_name": "Signed EOI received and saved on file",
+        "assigned_to": "Mike",
+        "status": "In Progress",
+        "date_completed": null,
+        "notes": "EOI"
+      },
+      {
+        "step_number": 13,
+        "step_name": "EOI Deposit paid to  Trust Account",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 14,
+        "step_name": "EOI Deposit Trust Receipt Sent to Purchaser",
+        "assigned_to": "Mayfair",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 15,
+        "step_name": "Offer Put to vendor for approval in writing",
+        "assigned_to": "Sam",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 16,
+        "step_name": "Vendor acceptance of offer in writing",
+        "assigned_to": "Mike/Sam",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 17,
+        "step_name": "Purchaser Solicitor confirmed",
+        "assigned_to": "Mike",
+        "status": "Completed",
+        "date_completed": null,
+        "notes": "Amalia Fidantsis"
+      },
+      {
+        "step_number": 18,
+        "step_name": "BGM contracts sent to Solicitor and Purchaser",
+        "assigned_to": "Mayfair",
+        "status": "Completed",
+        "date_completed": "2024-11-15",
+        "notes": null
+      },
+      {
+        "step_number": 19,
+        "step_name": "Send copy of COS and BGM Contracts to Purchaser",
+        "assigned_to": "Mike",
+        "status": "Completed",
+        "date_completed": "2024-11-18",
+        "notes": null
+      },
+      {
+        "step_number": 20,
+        "step_name": "Schedule Calender appointment to follow up in 21 days",
+        "assigned_to": "Mike",
+        "status": "Completed",
+        "date_completed": "2024-12-09",
+        "notes": null
+      },
+      {
+        "step_number": 21,
+        "step_name": "Contract of Sale Signed and Executed (BGP and Vendor)",
+        "assigned_to": "Mayfair",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 22,
+        "step_name": "Loan Lease and Management Agreement Signed and saved on file",
+        "assigned_to": "Mayfair/Mike",
+        "status": "Completed",
+        "date_completed": "2025-03-12",
+        "notes": null
+      },
+      {
+        "step_number": 23,
+        "step_name": "Renovations SOW issued  (signed and saved on file)",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 24,
+        "step_name": "Renovations payment method agreed in writing",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 25,
+        "step_name": "Renovations complete and paid",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 26,
+        "step_name": "Inspection of Renovations complete",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 27,
+        "step_name": "Keys, Arrival Pack and BGM Gift",
+        "assigned_to": "Katherine",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 28,
+        "step_name": "Settlement Completed",
+        "assigned_to": "Mayfair/Mike",
+        "status": "Completed",
+        "date_completed": "2025-01-20",
+        "notes": null
+      },
+      {
+        "step_number": 29,
+        "step_name": "DMF Calculator Updated",
+        "assigned_to": "Sam",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 30,
+        "step_name": "Receive settlement statement info from Mayfair",
+        "assigned_to": "Mayfair",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 31,
+        "step_name": "Send completion documents to Jay to enter into MYOB",
+        "assigned_to": "Sam",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 32,
+        "step_name": "Pay onsite managers commissions",
+        "assigned_to": "Jay/Laurain",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 33,
+        "step_name": "Pay Mark his entitlements",
+        "assigned_to": "Laurain",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      }
+    ]
+  },
+  {
+    "unit_id": 19,
+    "steps": [
+      {
+        "step_number": 1,
+        "step_name": "Vendor Sales Authority  (Signed and saved on file)",
+        "assigned_to": "Mike",
+        "status": "Completed",
+        "date_completed": null,
+        "notes": "Vendor Sales Authority U19"
+      },
+      {
+        "step_number": 2,
+        "step_name": "Send Vendor Sales Authority to Mayfair Legal",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 3,
+        "step_name": "Vendor engaged lawyer to trigger COS",
+        "assigned_to": "Mike",
+        "status": "Completed",
+        "date_completed": null,
+        "notes": "Sarah Lindsey"
+      },
+      {
+        "step_number": 4,
+        "step_name": "Special terms and conditions sent to Vendors Lawyer",
+        "assigned_to": "Mayfair",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 5,
+        "step_name": "Marketing Invoice Sent to Vendor",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 6,
+        "step_name": "Marketing Invoice Paid",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 7,
+        "step_name": "Photography Completed",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 8,
+        "step_name": "Online listings Completed REA, Barrina Webiste, Villages.com",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 9,
+        "step_name": "Contract of Sale Draft complete and sent by Mayfair Legal to Vendors Representative",
+        "assigned_to": "Mayfair",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 10,
+        "step_name": "Building and Pest Inspection Report Completed (NEW)",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 11,
+        "step_name": "Add to Current Units Price Guide for Katherine",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 12,
+        "step_name": "Signed EOI received and saved on file",
+        "assigned_to": "Mike",
+        "status": "In Progress",
+        "date_completed": null,
+        "notes": "EOI"
+      },
+      {
+        "step_number": 13,
+        "step_name": "EOI Deposit paid to  Trust Account",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 14,
+        "step_name": "EOI Deposit Trust Receipt Sent to Purchaser",
+        "assigned_to": "Mayfair",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 15,
+        "step_name": "Offer Put to vendor for approval in writing",
+        "assigned_to": "Sam",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 16,
+        "step_name": "Vendor acceptance of offer in writing",
+        "assigned_to": "Mike/Sam",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 17,
+        "step_name": "Purchaser Solicitor confirmed",
+        "assigned_to": "Mike",
+        "status": "Completed",
+        "date_completed": null,
+        "notes": "John Stasinopoulos"
+      },
+      {
+        "step_number": 18,
+        "step_name": "BGM contracts sent to Solicitor and Purchaser",
+        "assigned_to": "Mayfair",
+        "status": "Completed",
+        "date_completed": "2024-04-30",
+        "notes": null
+      },
+      {
+        "step_number": 19,
+        "step_name": "Send copy of COS and BGM Contracts to Purchaser",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 20,
+        "step_name": "Schedule Calender appointment to follow up in 21 days",
+        "assigned_to": "Mike",
+        "status": "Completed",
+        "date_completed": "2024-05-21",
+        "notes": null
+      },
+      {
+        "step_number": 21,
+        "step_name": "Contract of Sale Signed and Executed (BGP and Vendor)",
+        "assigned_to": "Mayfair",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 22,
+        "step_name": "Loan Lease and Management Agreement Signed and saved on file",
+        "assigned_to": "Mayfair/Mike",
+        "status": "Completed",
+        "date_completed": "2024-06-03",
+        "notes": null
+      },
+      {
+        "step_number": 23,
+        "step_name": "Renovations SOW issued  (signed and saved on file)",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 24,
+        "step_name": "Renovations payment method agreed in writing",
+        "assigned_to": "Mike",
+        "status": "In Progress",
+        "date_completed": null,
+        "notes": "loan lease"
+      },
+      {
+        "step_number": 25,
+        "step_name": "Renovations complete and paid",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 26,
+        "step_name": "Inspection of Renovations complete",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 27,
+        "step_name": "Keys, Arrival Pack and BGM Gift",
+        "assigned_to": "Katherine",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 28,
+        "step_name": "Settlement Completed",
+        "assigned_to": "Mayfair/Mike",
+        "status": "Completed",
+        "date_completed": "2024-07-26",
+        "notes": null
+      },
+      {
+        "step_number": 29,
+        "step_name": "DMF Calculator Updated",
+        "assigned_to": "Sam",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 30,
+        "step_name": "Receive settlement statement info from Mayfair",
+        "assigned_to": "Mayfair",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 31,
+        "step_name": "Send completion documents to Jay to enter into MYOB",
+        "assigned_to": "Sam",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 32,
+        "step_name": "Pay onsite managers commissions",
+        "assigned_to": "Jay/Laurain",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 33,
+        "step_name": "Pay Mark his entitlements",
+        "assigned_to": "Laurain",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      }
+    ]
+  },
+  {
+    "unit_id": 23,
+    "steps": [
+      {
+        "step_number": 1,
+        "step_name": "Vendor Sales Authority  (Signed and saved on file)",
+        "assigned_to": "Mike",
+        "status": "Completed",
+        "date_completed": null,
+        "notes": "Vendor Sales Authority U23"
+      },
+      {
+        "step_number": 2,
+        "step_name": "Send Vendor Sales Authority to Mayfair Legal",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 3,
+        "step_name": "Vendor engaged lawyer to trigger COS",
+        "assigned_to": "Mike",
+        "status": "Completed",
+        "date_completed": null,
+        "notes": "Stephen Morton"
+      },
+      {
+        "step_number": 4,
+        "step_name": "Special terms and conditions sent to Vendors Lawyer",
+        "assigned_to": "Mayfair",
+        "status": "In Progress",
+        "date_completed": null,
+        "notes": "Mayfair to prepare"
+      },
+      {
+        "step_number": 5,
+        "step_name": "Marketing Invoice Sent to Vendor",
+        "assigned_to": "Mike",
+        "status": "Completed",
+        "date_completed": null,
+        "notes": "marketing invoice received"
+      },
+      {
+        "step_number": 6,
+        "step_name": "Marketing Invoice Paid",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 7,
+        "step_name": "Photography Completed",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 8,
+        "step_name": "Online listings Completed REA, Barrina Webiste, Villages.com",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 9,
+        "step_name": "Contract of Sale Draft complete and sent by Mayfair Legal to Vendors Representative",
+        "assigned_to": "Mayfair",
+        "status": "In Progress",
+        "date_completed": null,
+        "notes": "Mayfair to prepare"
+      },
+      {
+        "step_number": 10,
+        "step_name": "Building and Pest Inspection Report Completed (NEW)",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 11,
+        "step_name": "Add to Current Units Price Guide for Katherine",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 12,
+        "step_name": "Signed EOI received and saved on file",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 13,
+        "step_name": "EOI Deposit paid to  Trust Account",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 14,
+        "step_name": "EOI Deposit Trust Receipt Sent to Purchaser",
+        "assigned_to": "Mayfair",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 15,
+        "step_name": "Offer Put to vendor for approval in writing",
+        "assigned_to": "Sam",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 16,
+        "step_name": "Vendor acceptance of offer in writing",
+        "assigned_to": "Mike/Sam",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 17,
+        "step_name": "Purchaser Solicitor confirmed",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 18,
+        "step_name": "BGM contracts sent to Solicitor and Purchaser",
+        "assigned_to": "Mayfair",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 19,
+        "step_name": "Send copy of COS and BGM Contracts to Purchaser",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 20,
+        "step_name": "Schedule Calender appointment to follow up in 21 days",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 21,
+        "step_name": "Contract of Sale Signed and Executed (BGP and Vendor)",
+        "assigned_to": "Mayfair",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 22,
+        "step_name": "Loan Lease and Management Agreement Signed and saved on file",
+        "assigned_to": "Mayfair/Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 23,
+        "step_name": "Renovations SOW issued  (signed and saved on file)",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 24,
+        "step_name": "Renovations payment method agreed in writing",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 25,
+        "step_name": "Renovations complete and paid",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 26,
+        "step_name": "Inspection of Renovations complete",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 27,
+        "step_name": "Keys, Arrival Pack and BGM Gift",
+        "assigned_to": "Katherine",
+        "status": "Completed",
+        "date_completed": null,
+        "notes": "1 key received (for reno)"
+      },
+      {
+        "step_number": 28,
+        "step_name": "Settlement Completed",
+        "assigned_to": "Mayfair/Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 29,
+        "step_name": "DMF Calculator Updated",
+        "assigned_to": "Sam",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 30,
+        "step_name": "Receive settlement statement info from Mayfair",
+        "assigned_to": "Mayfair",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 31,
+        "step_name": "Send completion documents to Jay to enter into MYOB",
+        "assigned_to": "Sam",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 32,
+        "step_name": "Pay onsite managers commissions",
+        "assigned_to": "Jay/Laurain",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 33,
+        "step_name": "Pay Mark his entitlements",
+        "assigned_to": "Laurain",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      }
+    ]
+  },
+  {
+    "unit_id": 24,
+    "steps": [
+      {
+        "step_number": 1,
+        "step_name": "Vendor Sales Authority  (Signed and saved on file)",
+        "assigned_to": "Mike",
+        "status": "Completed",
+        "date_completed": null,
+        "notes": "Vendor Sales Authority U24"
+      },
+      {
+        "step_number": 2,
+        "step_name": "Send Vendor Sales Authority to Mayfair Legal",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 3,
+        "step_name": "Vendor engaged lawyer to trigger COS",
+        "assigned_to": "Mike",
+        "status": "Completed",
+        "date_completed": null,
+        "notes": "Caroline Grainger"
+      },
+      {
+        "step_number": 4,
+        "step_name": "Special terms and conditions sent to Vendors Lawyer",
+        "assigned_to": "Mayfair",
+        "status": "In Progress",
+        "date_completed": null,
+        "notes": "Mayfair to prepare"
+      },
+      {
+        "step_number": 5,
+        "step_name": "Marketing Invoice Sent to Vendor",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 6,
+        "step_name": "Marketing Invoice Paid",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 7,
+        "step_name": "Photography Completed",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 8,
+        "step_name": "Online listings Completed REA, Barrina Webiste, Villages.com",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 9,
+        "step_name": "Contract of Sale Draft complete and sent by Mayfair Legal to Vendors Representative",
+        "assigned_to": "Mayfair",
+        "status": "In Progress",
+        "date_completed": null,
+        "notes": "Mayfair to prepare"
+      },
+      {
+        "step_number": 10,
+        "step_name": "Building and Pest Inspection Report Completed (NEW)",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 11,
+        "step_name": "Add to Current Units Price Guide for Katherine",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 12,
+        "step_name": "Signed EOI received and saved on file",
+        "assigned_to": "Mike",
+        "status": "In Progress",
+        "date_completed": null,
+        "notes": "EOI"
+      },
+      {
+        "step_number": 13,
+        "step_name": "EOI Deposit paid to  Trust Account",
+        "assigned_to": "Mike",
+        "status": "Completed",
+        "date_completed": "2025-12-03",
+        "notes": null
+      },
+      {
+        "step_number": 14,
+        "step_name": "EOI Deposit Trust Receipt Sent to Purchaser",
+        "assigned_to": "Mayfair",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 15,
+        "step_name": "Offer Put to vendor for approval in writing",
+        "assigned_to": "Sam",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 16,
+        "step_name": "Vendor acceptance of offer in writing",
+        "assigned_to": "Mike/Sam",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 17,
+        "step_name": "Purchaser Solicitor confirmed",
+        "assigned_to": "Mike",
+        "status": "Completed",
+        "date_completed": null,
+        "notes": "Julian Edelman"
+      },
+      {
+        "step_number": 18,
+        "step_name": "BGM contracts sent to Solicitor and Purchaser",
+        "assigned_to": "Mayfair",
+        "status": "Completed",
+        "date_completed": "2026-01-13",
+        "notes": null
+      },
+      {
+        "step_number": 19,
+        "step_name": "Send copy of COS and BGM Contracts to Purchaser",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 20,
+        "step_name": "Schedule Calender appointment to follow up in 21 days",
+        "assigned_to": "Mike",
+        "status": "Completed",
+        "date_completed": "2026-02-04",
+        "notes": null
+      },
+      {
+        "step_number": 21,
+        "step_name": "Contract of Sale Signed and Executed (BGP and Vendor)",
+        "assigned_to": "Mayfair",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 22,
+        "step_name": "Loan Lease and Management Agreement Signed and saved on file",
+        "assigned_to": "Mayfair/Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 23,
+        "step_name": "Renovations SOW issued  (signed and saved on file)",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 24,
+        "step_name": "Renovations payment method agreed in writing",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 25,
+        "step_name": "Renovations complete and paid",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 26,
+        "step_name": "Inspection of Renovations complete",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 27,
+        "step_name": "Keys, Arrival Pack and BGM Gift",
+        "assigned_to": "Katherine",
+        "status": "Completed",
+        "date_completed": null,
+        "notes": "1 key received (for reno)"
+      },
+      {
+        "step_number": 28,
+        "step_name": "Settlement Completed",
+        "assigned_to": "Mayfair/Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 29,
+        "step_name": "DMF Calculator Updated",
+        "assigned_to": "Sam",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 30,
+        "step_name": "Receive settlement statement info from Mayfair",
+        "assigned_to": "Mayfair",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 31,
+        "step_name": "Send completion documents to Jay to enter into MYOB",
+        "assigned_to": "Sam",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 32,
+        "step_name": "Pay onsite managers commissions",
+        "assigned_to": "Jay/Laurain",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 33,
+        "step_name": "Pay Mark his entitlements",
+        "assigned_to": "Laurain",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      }
+    ]
+  },
+  {
+    "unit_id": 27,
+    "steps": [
+      {
+        "step_number": 1,
+        "step_name": "Vendor Sales Authority  (Signed and saved on file)",
+        "assigned_to": "Mike",
+        "status": "Completed",
+        "date_completed": null,
+        "notes": "Vendor Sales Authority U27"
+      },
+      {
+        "step_number": 2,
+        "step_name": "Send Vendor Sales Authority to Mayfair Legal",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 3,
+        "step_name": "Vendor engaged lawyer to trigger COS",
+        "assigned_to": "Mike",
+        "status": "Completed",
+        "date_completed": null,
+        "notes": "Stephen Morton"
+      },
+      {
+        "step_number": 4,
+        "step_name": "Special terms and conditions sent to Vendors Lawyer",
+        "assigned_to": "Mayfair",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 5,
+        "step_name": "Marketing Invoice Sent to Vendor",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 6,
+        "step_name": "Marketing Invoice Paid",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 7,
+        "step_name": "Photography Completed",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 8,
+        "step_name": "Online listings Completed REA, Barrina Webiste, Villages.com",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 9,
+        "step_name": "Contract of Sale Draft complete and sent by Mayfair Legal to Vendors Representative",
+        "assigned_to": "Mayfair",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 10,
+        "step_name": "Building and Pest Inspection Report Completed (NEW)",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 11,
+        "step_name": "Add to Current Units Price Guide for Katherine",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 12,
+        "step_name": "Signed EOI received and saved on file",
+        "assigned_to": "Mike",
+        "status": "In Progress",
+        "date_completed": null,
+        "notes": "EOI"
+      },
+      {
+        "step_number": 13,
+        "step_name": "EOI Deposit paid to  Trust Account",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 14,
+        "step_name": "EOI Deposit Trust Receipt Sent to Purchaser",
+        "assigned_to": "Mayfair",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 15,
+        "step_name": "Offer Put to vendor for approval in writing",
+        "assigned_to": "Sam",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 16,
+        "step_name": "Vendor acceptance of offer in writing",
+        "assigned_to": "Mike/Sam",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 17,
+        "step_name": "Purchaser Solicitor confirmed",
+        "assigned_to": "Mike",
+        "status": "Completed",
+        "date_completed": null,
+        "notes": "Teagan Howard"
+      },
+      {
+        "step_number": 18,
+        "step_name": "BGM contracts sent to Solicitor and Purchaser",
+        "assigned_to": "Mayfair",
+        "status": "Completed",
+        "date_completed": "2024-05-01",
+        "notes": null
+      },
+      {
+        "step_number": 19,
+        "step_name": "Send copy of COS and BGM Contracts to Purchaser",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 20,
+        "step_name": "Schedule Calender appointment to follow up in 21 days",
+        "assigned_to": "Mike",
+        "status": "Completed",
+        "date_completed": "2024-05-22",
+        "notes": null
+      },
+      {
+        "step_number": 21,
+        "step_name": "Contract of Sale Signed and Executed (BGP and Vendor)",
+        "assigned_to": "Mayfair",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 22,
+        "step_name": "Loan Lease and Management Agreement Signed and saved on file",
+        "assigned_to": "Mayfair/Mike",
+        "status": "Completed",
+        "date_completed": "2024-05-31",
+        "notes": null
+      },
+      {
+        "step_number": 23,
+        "step_name": "Renovations SOW issued  (signed and saved on file)",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 24,
+        "step_name": "Renovations payment method agreed in writing",
+        "assigned_to": "Mike",
+        "status": "Completed",
+        "date_completed": "2024-05-31",
+        "notes": null
+      },
+      {
+        "step_number": 25,
+        "step_name": "Renovations complete and paid",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 26,
+        "step_name": "Inspection of Renovations complete",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 27,
+        "step_name": "Keys, Arrival Pack and BGM Gift",
+        "assigned_to": "Katherine",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 28,
+        "step_name": "Settlement Completed",
+        "assigned_to": "Mayfair/Mike",
+        "status": "Completed",
+        "date_completed": "2024-08-09",
+        "notes": null
+      },
+      {
+        "step_number": 29,
+        "step_name": "DMF Calculator Updated",
+        "assigned_to": "Sam",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 30,
+        "step_name": "Receive settlement statement info from Mayfair",
+        "assigned_to": "Mayfair",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 31,
+        "step_name": "Send completion documents to Jay to enter into MYOB",
+        "assigned_to": "Sam",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 32,
+        "step_name": "Pay onsite managers commissions",
+        "assigned_to": "Jay/Laurain",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 33,
+        "step_name": "Pay Mark his entitlements",
+        "assigned_to": "Laurain",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      }
+    ]
+  },
+  {
+    "unit_id": 33,
+    "steps": [
+      {
+        "step_number": 1,
+        "step_name": "Vendor Sales Authority  (Signed and saved on file)",
+        "assigned_to": "Mike",
+        "status": "Completed",
+        "date_completed": null,
+        "notes": "Vendor Sales Authority U33"
+      },
+      {
+        "step_number": 2,
+        "step_name": "Send Vendor Sales Authority to Mayfair Legal",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 3,
+        "step_name": "Vendor engaged lawyer to trigger COS",
+        "assigned_to": "Mike",
+        "status": "Completed",
+        "date_completed": null,
+        "notes": "Morgan Scholz"
+      },
+      {
+        "step_number": 4,
+        "step_name": "Special terms and conditions sent to Vendors Lawyer",
+        "assigned_to": "Mayfair",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 5,
+        "step_name": "Marketing Invoice Sent to Vendor",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 6,
+        "step_name": "Marketing Invoice Paid",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 7,
+        "step_name": "Photography Completed",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 8,
+        "step_name": "Online listings Completed REA, Barrina Webiste, Villages.com",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 9,
+        "step_name": "Contract of Sale Draft complete and sent by Mayfair Legal to Vendors Representative",
+        "assigned_to": "Mayfair",
+        "status": "Completed",
+        "date_completed": "2025-12-02",
+        "notes": null
+      },
+      {
+        "step_number": 10,
+        "step_name": "Building and Pest Inspection Report Completed (NEW)",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 11,
+        "step_name": "Add to Current Units Price Guide for Katherine",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 12,
+        "step_name": "Signed EOI received and saved on file",
+        "assigned_to": "Mike",
+        "status": "In Progress",
+        "date_completed": null,
+        "notes": "EOI"
+      },
+      {
+        "step_number": 13,
+        "step_name": "EOI Deposit paid to  Trust Account",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 14,
+        "step_name": "EOI Deposit Trust Receipt Sent to Purchaser",
+        "assigned_to": "Mayfair",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 15,
+        "step_name": "Offer Put to vendor for approval in writing",
+        "assigned_to": "Sam",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 16,
+        "step_name": "Vendor acceptance of offer in writing",
+        "assigned_to": "Mike/Sam",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 17,
+        "step_name": "Purchaser Solicitor confirmed",
+        "assigned_to": "Mike",
+        "status": "Completed",
+        "date_completed": null,
+        "notes": "Craig Mullen"
+      },
+      {
+        "step_number": 18,
+        "step_name": "BGM contracts sent to Solicitor and Purchaser",
+        "assigned_to": "Mayfair",
+        "status": "Completed",
+        "date_completed": "2025-12-02",
+        "notes": null
+      },
+      {
+        "step_number": 19,
+        "step_name": "Send copy of COS and BGM Contracts to Purchaser",
+        "assigned_to": "Mike",
+        "status": "Completed",
+        "date_completed": "2025-12-03",
+        "notes": null
+      },
+      {
+        "step_number": 20,
+        "step_name": "Schedule Calender appointment to follow up in 21 days",
+        "assigned_to": "Mike",
+        "status": "Completed",
+        "date_completed": "2025-12-23",
+        "notes": null
+      },
+      {
+        "step_number": 21,
+        "step_name": "Contract of Sale Signed and Executed (BGP and Vendor)",
+        "assigned_to": "Mayfair",
+        "status": "Completed",
+        "date_completed": "2025-12-12",
+        "notes": null
+      },
+      {
+        "step_number": 22,
+        "step_name": "Loan Lease and Management Agreement Signed and saved on file",
+        "assigned_to": "Mayfair/Mike",
+        "status": "Completed",
+        "date_completed": null,
+        "notes": "purchaser signed copy saved"
+      },
+      {
+        "step_number": 23,
+        "step_name": "Renovations SOW issued  (signed and saved on file)",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 24,
+        "step_name": "Renovations payment method agreed in writing",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 25,
+        "step_name": "Renovations complete and paid",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 26,
+        "step_name": "Inspection of Renovations complete",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 27,
+        "step_name": "Keys, Arrival Pack and BGM Gift",
+        "assigned_to": "Katherine",
+        "status": "In Progress",
+        "date_completed": null,
+        "notes": "no keys"
+      },
+      {
+        "step_number": 28,
+        "step_name": "Settlement Completed",
+        "assigned_to": "Mayfair/Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 29,
+        "step_name": "DMF Calculator Updated",
+        "assigned_to": "Sam",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 30,
+        "step_name": "Receive settlement statement info from Mayfair",
+        "assigned_to": "Mayfair",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 31,
+        "step_name": "Send completion documents to Jay to enter into MYOB",
+        "assigned_to": "Sam",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 32,
+        "step_name": "Pay onsite managers commissions",
+        "assigned_to": "Jay/Laurain",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 33,
+        "step_name": "Pay Mark his entitlements",
+        "assigned_to": "Laurain",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      }
+    ]
+  },
+  {
+    "unit_id": 34,
+    "steps": [
+      {
+        "step_number": 1,
+        "step_name": "Vendor Sales Authority  (Signed and saved on file)",
+        "assigned_to": "Mike",
+        "status": "Completed",
+        "date_completed": null,
+        "notes": "Vendor Sales Authority U34"
+      },
+      {
+        "step_number": 2,
+        "step_name": "Send Vendor Sales Authority to Mayfair Legal",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 3,
+        "step_name": "Vendor engaged lawyer to trigger COS",
+        "assigned_to": "Mike",
+        "status": "Completed",
+        "date_completed": null,
+        "notes": "Craig Mullen"
+      },
+      {
+        "step_number": 4,
+        "step_name": "Special terms and conditions sent to Vendors Lawyer",
+        "assigned_to": "Mayfair",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 5,
+        "step_name": "Marketing Invoice Sent to Vendor",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 6,
+        "step_name": "Marketing Invoice Paid",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 7,
+        "step_name": "Photography Completed",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 8,
+        "step_name": "Online listings Completed REA, Barrina Webiste, Villages.com",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 9,
+        "step_name": "Contract of Sale Draft complete and sent by Mayfair Legal to Vendors Representative",
+        "assigned_to": "Mayfair",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 10,
+        "step_name": "Building and Pest Inspection Report Completed (NEW)",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 11,
+        "step_name": "Add to Current Units Price Guide for Katherine",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 12,
+        "step_name": "Signed EOI received and saved on file",
+        "assigned_to": "Mike",
+        "status": "In Progress",
+        "date_completed": null,
+        "notes": "EOI"
+      },
+      {
+        "step_number": 13,
+        "step_name": "EOI Deposit paid to  Trust Account",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 14,
+        "step_name": "EOI Deposit Trust Receipt Sent to Purchaser",
+        "assigned_to": "Mayfair",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 15,
+        "step_name": "Offer Put to vendor for approval in writing",
+        "assigned_to": "Sam",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 16,
+        "step_name": "Vendor acceptance of offer in writing",
+        "assigned_to": "Mike/Sam",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 17,
+        "step_name": "Purchaser Solicitor confirmed",
+        "assigned_to": "Mike",
+        "status": "Completed",
+        "date_completed": null,
+        "notes": "Sabina Mehra"
+      },
+      {
+        "step_number": 18,
+        "step_name": "BGM contracts sent to Solicitor and Purchaser",
+        "assigned_to": "Mayfair",
+        "status": "Completed",
+        "date_completed": "2024-09-23",
+        "notes": null
+      },
+      {
+        "step_number": 19,
+        "step_name": "Send copy of COS and BGM Contracts to Purchaser",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 20,
+        "step_name": "Schedule Calender appointment to follow up in 21 days",
+        "assigned_to": "Mike",
+        "status": "Completed",
+        "date_completed": "2024-10-14",
+        "notes": null
+      },
+      {
+        "step_number": 21,
+        "step_name": "Contract of Sale Signed and Executed (BGP and Vendor)",
+        "assigned_to": "Mayfair",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 22,
+        "step_name": "Loan Lease and Management Agreement Signed and saved on file",
+        "assigned_to": "Mayfair/Mike",
+        "status": "Completed",
+        "date_completed": "2024-11-12",
+        "notes": null
+      },
+      {
+        "step_number": 23,
+        "step_name": "Renovations SOW issued  (signed and saved on file)",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 24,
+        "step_name": "Renovations payment method agreed in writing",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 25,
+        "step_name": "Renovations complete and paid",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 26,
+        "step_name": "Inspection of Renovations complete",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 27,
+        "step_name": "Keys, Arrival Pack and BGM Gift",
+        "assigned_to": "Katherine",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 28,
+        "step_name": "Settlement Completed",
+        "assigned_to": "Mayfair/Mike",
+        "status": "Completed",
+        "date_completed": "2025-01-17",
+        "notes": null
+      },
+      {
+        "step_number": 29,
+        "step_name": "DMF Calculator Updated",
+        "assigned_to": "Sam",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 30,
+        "step_name": "Receive settlement statement info from Mayfair",
+        "assigned_to": "Mayfair",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 31,
+        "step_name": "Send completion documents to Jay to enter into MYOB",
+        "assigned_to": "Sam",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 32,
+        "step_name": "Pay onsite managers commissions",
+        "assigned_to": "Jay/Laurain",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 33,
+        "step_name": "Pay Mark his entitlements",
+        "assigned_to": "Laurain",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      }
+    ]
+  },
+  {
+    "unit_id": 36,
+    "steps": [
+      {
+        "step_number": 1,
+        "step_name": "Vendor Sales Authority  (Signed and saved on file)",
+        "assigned_to": "Mike",
+        "status": "Completed",
+        "date_completed": null,
+        "notes": "Vendor Sales Authority U36"
+      },
+      {
+        "step_number": 2,
+        "step_name": "Send Vendor Sales Authority to Mayfair Legal",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 3,
+        "step_name": "Vendor engaged lawyer to trigger COS",
+        "assigned_to": "Mike",
+        "status": "Completed",
+        "date_completed": null,
+        "notes": "Stephen Morton"
+      },
+      {
+        "step_number": 4,
+        "step_name": "Special terms and conditions sent to Vendors Lawyer",
+        "assigned_to": "Mayfair",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 5,
+        "step_name": "Marketing Invoice Sent to Vendor",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 6,
+        "step_name": "Marketing Invoice Paid",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 7,
+        "step_name": "Photography Completed",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 8,
+        "step_name": "Online listings Completed REA, Barrina Webiste, Villages.com",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 9,
+        "step_name": "Contract of Sale Draft complete and sent by Mayfair Legal to Vendors Representative",
+        "assigned_to": "Mayfair",
+        "status": "Completed",
+        "date_completed": "2025-04-15",
+        "notes": null
+      },
+      {
+        "step_number": 10,
+        "step_name": "Building and Pest Inspection Report Completed (NEW)",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 11,
+        "step_name": "Add to Current Units Price Guide for Katherine",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 12,
+        "step_name": "Signed EOI received and saved on file",
+        "assigned_to": "Mike",
+        "status": "In Progress",
+        "date_completed": null,
+        "notes": "EOI"
+      },
+      {
+        "step_number": 13,
+        "step_name": "EOI Deposit paid to  Trust Account",
+        "assigned_to": "Mike",
+        "status": "Completed",
+        "date_completed": "2025-08-04",
+        "notes": null
+      },
+      {
+        "step_number": 14,
+        "step_name": "EOI Deposit Trust Receipt Sent to Purchaser",
+        "assigned_to": "Mayfair",
+        "status": "Completed",
+        "date_completed": "2025-08-08",
+        "notes": null
+      },
+      {
+        "step_number": 15,
+        "step_name": "Offer Put to vendor for approval in writing",
+        "assigned_to": "Sam",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 16,
+        "step_name": "Vendor acceptance of offer in writing",
+        "assigned_to": "Mike/Sam",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 17,
+        "step_name": "Purchaser Solicitor confirmed",
+        "assigned_to": "Mike",
+        "status": "Completed",
+        "date_completed": null,
+        "notes": "Belinda Bernardini"
+      },
+      {
+        "step_number": 18,
+        "step_name": "BGM contracts sent to Solicitor and Purchaser",
+        "assigned_to": "Mayfair",
+        "status": "Completed",
+        "date_completed": "2025-08-08",
+        "notes": null
+      },
+      {
+        "step_number": 19,
+        "step_name": "Send copy of COS and BGM Contracts to Purchaser",
+        "assigned_to": "Mike",
+        "status": "Completed",
+        "date_completed": "2025-08-11",
+        "notes": null
+      },
+      {
+        "step_number": 20,
+        "step_name": "Schedule Calender appointment to follow up in 21 days",
+        "assigned_to": "Mike",
+        "status": "Completed",
+        "date_completed": "2025-08-29",
+        "notes": null
+      },
+      {
+        "step_number": 21,
+        "step_name": "Contract of Sale Signed and Executed (BGP and Vendor)",
+        "assigned_to": "Mayfair",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 22,
+        "step_name": "Loan Lease and Management Agreement Signed and saved on file",
+        "assigned_to": "Mayfair/Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 23,
+        "step_name": "Renovations SOW issued  (signed and saved on file)",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 24,
+        "step_name": "Renovations payment method agreed in writing",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 25,
+        "step_name": "Renovations complete and paid",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 26,
+        "step_name": "Inspection of Renovations complete",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 27,
+        "step_name": "Keys, Arrival Pack and BGM Gift",
+        "assigned_to": "Katherine",
+        "status": "Completed",
+        "date_completed": "2025-09-18",
+        "notes": null
+      },
+      {
+        "step_number": 28,
+        "step_name": "Settlement Completed",
+        "assigned_to": "Mayfair/Mike",
+        "status": "Completed",
+        "date_completed": "2025-09-18",
+        "notes": null
+      },
+      {
+        "step_number": 29,
+        "step_name": "DMF Calculator Updated",
+        "assigned_to": "Sam",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 30,
+        "step_name": "Receive settlement statement info from Mayfair",
+        "assigned_to": "Mayfair",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 31,
+        "step_name": "Send completion documents to Jay to enter into MYOB",
+        "assigned_to": "Sam",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 32,
+        "step_name": "Pay onsite managers commissions",
+        "assigned_to": "Jay/Laurain",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 33,
+        "step_name": "Pay Mark his entitlements",
+        "assigned_to": "Laurain",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      }
+    ]
+  },
+  {
+    "unit_id": 37,
+    "steps": [
+      {
+        "step_number": 1,
+        "step_name": "Vendor Sales Authority  (Signed and saved on file)",
+        "assigned_to": "Mike",
+        "status": "Completed",
+        "date_completed": null,
+        "notes": "Vendor Sales Authority U37"
+      },
+      {
+        "step_number": 2,
+        "step_name": "Send Vendor Sales Authority to Mayfair Legal",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 3,
+        "step_name": "Vendor engaged lawyer to trigger COS",
+        "assigned_to": "Mike",
+        "status": "Completed",
+        "date_completed": null,
+        "notes": "Linda De Villiers"
+      },
+      {
+        "step_number": 4,
+        "step_name": "Special terms and conditions sent to Vendors Lawyer",
+        "assigned_to": "Mayfair",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 5,
+        "step_name": "Marketing Invoice Sent to Vendor",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 6,
+        "step_name": "Marketing Invoice Paid",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 7,
+        "step_name": "Photography Completed",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 8,
+        "step_name": "Online listings Completed REA, Barrina Webiste, Villages.com",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 9,
+        "step_name": "Contract of Sale Draft complete and sent by Mayfair Legal to Vendors Representative",
+        "assigned_to": "Mayfair",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 10,
+        "step_name": "Building and Pest Inspection Report Completed (NEW)",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 11,
+        "step_name": "Add to Current Units Price Guide for Katherine",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 12,
+        "step_name": "Signed EOI received and saved on file",
+        "assigned_to": "Mike",
+        "status": "In Progress",
+        "date_completed": null,
+        "notes": "EOI"
+      },
+      {
+        "step_number": 13,
+        "step_name": "EOI Deposit paid to  Trust Account",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 14,
+        "step_name": "EOI Deposit Trust Receipt Sent to Purchaser",
+        "assigned_to": "Mayfair",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 15,
+        "step_name": "Offer Put to vendor for approval in writing",
+        "assigned_to": "Sam",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 16,
+        "step_name": "Vendor acceptance of offer in writing",
+        "assigned_to": "Mike/Sam",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 17,
+        "step_name": "Purchaser Solicitor confirmed",
+        "assigned_to": "Mike",
+        "status": "Completed",
+        "date_completed": null,
+        "notes": "Dion Andrikopoulos"
+      },
+      {
+        "step_number": 18,
+        "step_name": "BGM contracts sent to Solicitor and Purchaser",
+        "assigned_to": "Mayfair",
+        "status": "Completed",
+        "date_completed": "2024-04-24",
+        "notes": null
+      },
+      {
+        "step_number": 19,
+        "step_name": "Send copy of COS and BGM Contracts to Purchaser",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 20,
+        "step_name": "Schedule Calender appointment to follow up in 21 days",
+        "assigned_to": "Mike",
+        "status": "Completed",
+        "date_completed": "2024-05-15",
+        "notes": null
+      },
+      {
+        "step_number": 21,
+        "step_name": "Contract of Sale Signed and Executed (BGP and Vendor)",
+        "assigned_to": "Mayfair",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 22,
+        "step_name": "Loan Lease and Management Agreement Signed and saved on file",
+        "assigned_to": "Mayfair/Mike",
+        "status": "Completed",
+        "date_completed": "2024-05-23",
+        "notes": null
+      },
+      {
+        "step_number": 23,
+        "step_name": "Renovations SOW issued  (signed and saved on file)",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 24,
+        "step_name": "Renovations payment method agreed in writing",
+        "assigned_to": "Mike",
+        "status": "In Progress",
+        "date_completed": null,
+        "notes": "loan lease"
+      },
+      {
+        "step_number": 25,
+        "step_name": "Renovations complete and paid",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 26,
+        "step_name": "Inspection of Renovations complete",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 27,
+        "step_name": "Keys, Arrival Pack and BGM Gift",
+        "assigned_to": "Katherine",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 28,
+        "step_name": "Settlement Completed",
+        "assigned_to": "Mayfair/Mike",
+        "status": "Completed",
+        "date_completed": "2024-08-12",
+        "notes": null
+      },
+      {
+        "step_number": 29,
+        "step_name": "DMF Calculator Updated",
+        "assigned_to": "Sam",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 30,
+        "step_name": "Receive settlement statement info from Mayfair",
+        "assigned_to": "Mayfair",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 31,
+        "step_name": "Send completion documents to Jay to enter into MYOB",
+        "assigned_to": "Sam",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 32,
+        "step_name": "Pay onsite managers commissions",
+        "assigned_to": "Jay/Laurain",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 33,
+        "step_name": "Pay Mark his entitlements",
+        "assigned_to": "Laurain",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      }
+    ]
+  },
+  {
+    "unit_id": 38,
+    "steps": [
+      {
+        "step_number": 1,
+        "step_name": "Vendor Sales Authority  (Signed and saved on file)",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 2,
+        "step_name": "Send Vendor Sales Authority to Mayfair Legal",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 3,
+        "step_name": "Vendor engaged lawyer to trigger COS",
+        "assigned_to": "Mike",
+        "status": "Completed",
+        "date_completed": null,
+        "notes": "Leona Stormer"
+      },
+      {
+        "step_number": 4,
+        "step_name": "Special terms and conditions sent to Vendors Lawyer",
+        "assigned_to": "Mayfair",
+        "status": "In Progress",
+        "date_completed": null,
+        "notes": "Mayfair to prepare"
+      },
+      {
+        "step_number": 5,
+        "step_name": "Marketing Invoice Sent to Vendor",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 6,
+        "step_name": "Marketing Invoice Paid",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 7,
+        "step_name": "Photography Completed",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 8,
+        "step_name": "Online listings Completed REA, Barrina Webiste, Villages.com",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 9,
+        "step_name": "Contract of Sale Draft complete and sent by Mayfair Legal to Vendors Representative",
+        "assigned_to": "Mayfair",
+        "status": "In Progress",
+        "date_completed": null,
+        "notes": "Mayfair to prepare"
+      },
+      {
+        "step_number": 10,
+        "step_name": "Building and Pest Inspection Report Completed (NEW)",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 11,
+        "step_name": "Add to Current Units Price Guide for Katherine",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 12,
+        "step_name": "Signed EOI received and saved on file",
+        "assigned_to": "Mike",
+        "status": "In Progress",
+        "date_completed": null,
+        "notes": "EOI"
+      },
+      {
+        "step_number": 13,
+        "step_name": "EOI Deposit paid to  Trust Account",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 14,
+        "step_name": "EOI Deposit Trust Receipt Sent to Purchaser",
+        "assigned_to": "Mayfair",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 15,
+        "step_name": "Offer Put to vendor for approval in writing",
+        "assigned_to": "Sam",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 16,
+        "step_name": "Vendor acceptance of offer in writing",
+        "assigned_to": "Mike/Sam",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 17,
+        "step_name": "Purchaser Solicitor confirmed",
+        "assigned_to": "Mike",
+        "status": "Completed",
+        "date_completed": null,
+        "notes": "Kristy Muhlhan"
+      },
+      {
+        "step_number": 18,
+        "step_name": "BGM contracts sent to Solicitor and Purchaser",
+        "assigned_to": "Mayfair",
+        "status": "Completed",
+        "date_completed": "2026-01-13",
+        "notes": null
+      },
+      {
+        "step_number": 19,
+        "step_name": "Send copy of COS and BGM Contracts to Purchaser",
+        "assigned_to": "Mike",
+        "status": "Completed",
+        "date_completed": "2026-01-16",
+        "notes": null
+      },
+      {
+        "step_number": 20,
+        "step_name": "Schedule Calender appointment to follow up in 21 days",
+        "assigned_to": "Mike",
+        "status": "Completed",
+        "date_completed": "2026-02-17",
+        "notes": null
+      },
+      {
+        "step_number": 21,
+        "step_name": "Contract of Sale Signed and Executed (BGP and Vendor)",
+        "assigned_to": "Mayfair",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 22,
+        "step_name": "Loan Lease and Management Agreement Signed and saved on file",
+        "assigned_to": "Mayfair/Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 23,
+        "step_name": "Renovations SOW issued  (signed and saved on file)",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 24,
+        "step_name": "Renovations payment method agreed in writing",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 25,
+        "step_name": "Renovations complete and paid",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 26,
+        "step_name": "Inspection of Renovations complete",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 27,
+        "step_name": "Keys, Arrival Pack and BGM Gift",
+        "assigned_to": "Katherine",
+        "status": "In Progress",
+        "date_completed": null,
+        "notes": "no keys"
+      },
+      {
+        "step_number": 28,
+        "step_name": "Settlement Completed",
+        "assigned_to": "Mayfair/Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 29,
+        "step_name": "DMF Calculator Updated",
+        "assigned_to": "Sam",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 30,
+        "step_name": "Receive settlement statement info from Mayfair",
+        "assigned_to": "Mayfair",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 31,
+        "step_name": "Send completion documents to Jay to enter into MYOB",
+        "assigned_to": "Sam",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 32,
+        "step_name": "Pay onsite managers commissions",
+        "assigned_to": "Jay/Laurain",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 33,
+        "step_name": "Pay Mark his entitlements",
+        "assigned_to": "Laurain",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      }
+    ]
+  },
+  {
+    "unit_id": 42,
+    "steps": [
+      {
+        "step_number": 1,
+        "step_name": "Vendor Sales Authority  (Signed and saved on file)",
+        "assigned_to": "Mike",
+        "status": "Completed",
+        "date_completed": null,
+        "notes": "Vendor Sales Authority U42"
+      },
+      {
+        "step_number": 2,
+        "step_name": "Send Vendor Sales Authority to Mayfair Legal",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 3,
+        "step_name": "Vendor engaged lawyer to trigger COS",
+        "assigned_to": "Mike",
+        "status": "Completed",
+        "date_completed": null,
+        "notes": "Andrew Bell"
+      },
+      {
+        "step_number": 4,
+        "step_name": "Special terms and conditions sent to Vendors Lawyer",
+        "assigned_to": "Mayfair",
+        "status": "Completed",
+        "date_completed": "2025-11-26",
+        "notes": null
+      },
+      {
+        "step_number": 5,
+        "step_name": "Marketing Invoice Sent to Vendor",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 6,
+        "step_name": "Marketing Invoice Paid",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 7,
+        "step_name": "Photography Completed",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 8,
+        "step_name": "Online listings Completed REA, Barrina Webiste, Villages.com",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 9,
+        "step_name": "Contract of Sale Draft complete and sent by Mayfair Legal to Vendors Representative",
+        "assigned_to": "Mayfair",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 10,
+        "step_name": "Building and Pest Inspection Report Completed (NEW)",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 11,
+        "step_name": "Add to Current Units Price Guide for Katherine",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 12,
+        "step_name": "Signed EOI received and saved on file",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 13,
+        "step_name": "EOI Deposit paid to  Trust Account",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 14,
+        "step_name": "EOI Deposit Trust Receipt Sent to Purchaser",
+        "assigned_to": "Mayfair",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 15,
+        "step_name": "Offer Put to vendor for approval in writing",
+        "assigned_to": "Sam",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 16,
+        "step_name": "Vendor acceptance of offer in writing",
+        "assigned_to": "Mike/Sam",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 17,
+        "step_name": "Purchaser Solicitor confirmed",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 18,
+        "step_name": "BGM contracts sent to Solicitor and Purchaser",
+        "assigned_to": "Mayfair",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 19,
+        "step_name": "Send copy of COS and BGM Contracts to Purchaser",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 20,
+        "step_name": "Schedule Calender appointment to follow up in 21 days",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 21,
+        "step_name": "Contract of Sale Signed and Executed (BGP and Vendor)",
+        "assigned_to": "Mayfair",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 22,
+        "step_name": "Loan Lease and Management Agreement Signed and saved on file",
+        "assigned_to": "Mayfair/Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 23,
+        "step_name": "Renovations SOW issued  (signed and saved on file)",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 24,
+        "step_name": "Renovations payment method agreed in writing",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 25,
+        "step_name": "Renovations complete and paid",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 26,
+        "step_name": "Inspection of Renovations complete",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 27,
+        "step_name": "Keys, Arrival Pack and BGM Gift",
+        "assigned_to": "Katherine",
+        "status": "In Progress",
+        "date_completed": null,
+        "notes": "no keys"
+      },
+      {
+        "step_number": 28,
+        "step_name": "Settlement Completed",
+        "assigned_to": "Mayfair/Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 29,
+        "step_name": "DMF Calculator Updated",
+        "assigned_to": "Sam",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 30,
+        "step_name": "Receive settlement statement info from Mayfair",
+        "assigned_to": "Mayfair",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 31,
+        "step_name": "Send completion documents to Jay to enter into MYOB",
+        "assigned_to": "Sam",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 32,
+        "step_name": "Pay onsite managers commissions",
+        "assigned_to": "Jay/Laurain",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 33,
+        "step_name": "Pay Mark his entitlements",
+        "assigned_to": "Laurain",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      }
+    ]
+  },
+  {
+    "unit_id": 43,
+    "steps": [
+      {
+        "step_number": 1,
+        "step_name": "Vendor Sales Authority  (Signed and saved on file)",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 2,
+        "step_name": "Send Vendor Sales Authority to Mayfair Legal",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 3,
+        "step_name": "Vendor engaged lawyer to trigger COS",
+        "assigned_to": "Mike",
+        "status": "Completed",
+        "date_completed": null,
+        "notes": "John Stasinopoulos"
+      },
+      {
+        "step_number": 4,
+        "step_name": "Special terms and conditions sent to Vendors Lawyer",
+        "assigned_to": "Mayfair",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 5,
+        "step_name": "Marketing Invoice Sent to Vendor",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 6,
+        "step_name": "Marketing Invoice Paid",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 7,
+        "step_name": "Photography Completed",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 8,
+        "step_name": "Online listings Completed REA, Barrina Webiste, Villages.com",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 9,
+        "step_name": "Contract of Sale Draft complete and sent by Mayfair Legal to Vendors Representative",
+        "assigned_to": "Mayfair",
+        "status": "Completed",
+        "date_completed": "2024-04-30",
+        "notes": null
+      },
+      {
+        "step_number": 10,
+        "step_name": "Building and Pest Inspection Report Completed (NEW)",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 11,
+        "step_name": "Add to Current Units Price Guide for Katherine",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 12,
+        "step_name": "Signed EOI received and saved on file",
+        "assigned_to": "Mike",
+        "status": "In Progress",
+        "date_completed": null,
+        "notes": "EOI"
+      },
+      {
+        "step_number": 13,
+        "step_name": "EOI Deposit paid to  Trust Account",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 14,
+        "step_name": "EOI Deposit Trust Receipt Sent to Purchaser",
+        "assigned_to": "Mayfair",
+        "status": "Completed",
+        "date_completed": "2024-04-29",
+        "notes": null
+      },
+      {
+        "step_number": 15,
+        "step_name": "Offer Put to vendor for approval in writing",
+        "assigned_to": "Sam",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 16,
+        "step_name": "Vendor acceptance of offer in writing",
+        "assigned_to": "Mike/Sam",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 17,
+        "step_name": "Purchaser Solicitor confirmed",
+        "assigned_to": "Mike",
+        "status": "Completed",
+        "date_completed": null,
+        "notes": "Jane Busby"
+      },
+      {
+        "step_number": 18,
+        "step_name": "BGM contracts sent to Solicitor and Purchaser",
+        "assigned_to": "Mayfair",
+        "status": "Completed",
+        "date_completed": "2024-05-03",
+        "notes": null
+      },
+      {
+        "step_number": 19,
+        "step_name": "Send copy of COS and BGM Contracts to Purchaser",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 20,
+        "step_name": "Schedule Calender appointment to follow up in 21 days",
+        "assigned_to": "Mike",
+        "status": "Completed",
+        "date_completed": "2024-05-24",
+        "notes": null
+      },
+      {
+        "step_number": 21,
+        "step_name": "Contract of Sale Signed and Executed (BGP and Vendor)",
+        "assigned_to": "Mayfair",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 22,
+        "step_name": "Loan Lease and Management Agreement Signed and saved on file",
+        "assigned_to": "Mayfair/Mike",
+        "status": "Completed",
+        "date_completed": "2024-05-30",
+        "notes": null
+      },
+      {
+        "step_number": 23,
+        "step_name": "Renovations SOW issued  (signed and saved on file)",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 24,
+        "step_name": "Renovations payment method agreed in writing",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 25,
+        "step_name": "Renovations complete and paid",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 26,
+        "step_name": "Inspection of Renovations complete",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 27,
+        "step_name": "Keys, Arrival Pack and BGM Gift",
+        "assigned_to": "Katherine",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 28,
+        "step_name": "Settlement Completed",
+        "assigned_to": "Mayfair/Mike",
+        "status": "Completed",
+        "date_completed": "2024-06-17",
+        "notes": null
+      },
+      {
+        "step_number": 29,
+        "step_name": "DMF Calculator Updated",
+        "assigned_to": "Sam",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 30,
+        "step_name": "Receive settlement statement info from Mayfair",
+        "assigned_to": "Mayfair",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 31,
+        "step_name": "Send completion documents to Jay to enter into MYOB",
+        "assigned_to": "Sam",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 32,
+        "step_name": "Pay onsite managers commissions",
+        "assigned_to": "Jay/Laurain",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 33,
+        "step_name": "Pay Mark his entitlements",
+        "assigned_to": "Laurain",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      }
+    ]
+  },
+  {
+    "unit_id": 54,
+    "steps": [
+      {
+        "step_number": 1,
+        "step_name": "Vendor Sales Authority  (Signed and saved on file)",
+        "assigned_to": "Mike",
+        "status": "Completed",
+        "date_completed": null,
+        "notes": "Vendor Sales Authority U54"
+      },
+      {
+        "step_number": 2,
+        "step_name": "Send Vendor Sales Authority to Mayfair Legal",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 3,
+        "step_name": "Vendor engaged lawyer to trigger COS",
+        "assigned_to": "Mike",
+        "status": "Completed",
+        "date_completed": null,
+        "notes": "Craig Mullen"
+      },
+      {
+        "step_number": 4,
+        "step_name": "Special terms and conditions sent to Vendors Lawyer",
+        "assigned_to": "Mayfair",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 5,
+        "step_name": "Marketing Invoice Sent to Vendor",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 6,
+        "step_name": "Marketing Invoice Paid",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 7,
+        "step_name": "Photography Completed",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 8,
+        "step_name": "Online listings Completed REA, Barrina Webiste, Villages.com",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 9,
+        "step_name": "Contract of Sale Draft complete and sent by Mayfair Legal to Vendors Representative",
+        "assigned_to": "Mayfair",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 10,
+        "step_name": "Building and Pest Inspection Report Completed (NEW)",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 11,
+        "step_name": "Add to Current Units Price Guide for Katherine",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 12,
+        "step_name": "Signed EOI received and saved on file",
+        "assigned_to": "Mike",
+        "status": "In Progress",
+        "date_completed": null,
+        "notes": "EOI"
+      },
+      {
+        "step_number": 13,
+        "step_name": "EOI Deposit paid to  Trust Account",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 14,
+        "step_name": "EOI Deposit Trust Receipt Sent to Purchaser",
+        "assigned_to": "Mayfair",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 15,
+        "step_name": "Offer Put to vendor for approval in writing",
+        "assigned_to": "Sam",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 16,
+        "step_name": "Vendor acceptance of offer in writing",
+        "assigned_to": "Mike/Sam",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 17,
+        "step_name": "Purchaser Solicitor confirmed",
+        "assigned_to": "Mike",
+        "status": "Completed",
+        "date_completed": null,
+        "notes": "Linda De Villiers"
+      },
+      {
+        "step_number": 18,
+        "step_name": "BGM contracts sent to Solicitor and Purchaser",
+        "assigned_to": "Mayfair",
+        "status": "Completed",
+        "date_completed": "2024-08-16",
+        "notes": null
+      },
+      {
+        "step_number": 19,
+        "step_name": "Send copy of COS and BGM Contracts to Purchaser",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 20,
+        "step_name": "Schedule Calender appointment to follow up in 21 days",
+        "assigned_to": "Mike",
+        "status": "Completed",
+        "date_completed": "2024-09-07",
+        "notes": null
+      },
+      {
+        "step_number": 21,
+        "step_name": "Contract of Sale Signed and Executed (BGP and Vendor)",
+        "assigned_to": "Mayfair",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 22,
+        "step_name": "Loan Lease and Management Agreement Signed and saved on file",
+        "assigned_to": "Mayfair/Mike",
+        "status": "Completed",
+        "date_completed": "2024-10-04",
+        "notes": null
+      },
+      {
+        "step_number": 23,
+        "step_name": "Renovations SOW issued  (signed and saved on file)",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 24,
+        "step_name": "Renovations payment method agreed in writing",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 25,
+        "step_name": "Renovations complete and paid",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 26,
+        "step_name": "Inspection of Renovations complete",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 27,
+        "step_name": "Keys, Arrival Pack and BGM Gift",
+        "assigned_to": "Katherine",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 28,
+        "step_name": "Settlement Completed",
+        "assigned_to": "Mayfair/Mike",
+        "status": "Completed",
+        "date_completed": "2024-10-04",
+        "notes": null
+      },
+      {
+        "step_number": 29,
+        "step_name": "DMF Calculator Updated",
+        "assigned_to": "Sam",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 30,
+        "step_name": "Receive settlement statement info from Mayfair",
+        "assigned_to": "Mayfair",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 31,
+        "step_name": "Send completion documents to Jay to enter into MYOB",
+        "assigned_to": "Sam",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 32,
+        "step_name": "Pay onsite managers commissions",
+        "assigned_to": "Jay/Laurain",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 33,
+        "step_name": "Pay Mark his entitlements",
+        "assigned_to": "Laurain",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      }
+    ]
+  },
+  {
+    "unit_id": 56,
+    "steps": [
+      {
+        "step_number": 1,
+        "step_name": "Vendor Sales Authority  (Signed and saved on file)",
+        "assigned_to": "Mike",
+        "status": "Completed",
+        "date_completed": null,
+        "notes": "Vendor Sales Authority U56"
+      },
+      {
+        "step_number": 2,
+        "step_name": "Send Vendor Sales Authority to Mayfair Legal",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 3,
+        "step_name": "Vendor engaged lawyer to trigger COS",
+        "assigned_to": "Mike",
+        "status": "Completed",
+        "date_completed": null,
+        "notes": "Carolina Smith"
+      },
+      {
+        "step_number": 4,
+        "step_name": "Special terms and conditions sent to Vendors Lawyer",
+        "assigned_to": "Mayfair",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 5,
+        "step_name": "Marketing Invoice Sent to Vendor",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 6,
+        "step_name": "Marketing Invoice Paid",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 7,
+        "step_name": "Photography Completed",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 8,
+        "step_name": "Online listings Completed REA, Barrina Webiste, Villages.com",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 9,
+        "step_name": "Contract of Sale Draft complete and sent by Mayfair Legal to Vendors Representative",
+        "assigned_to": "Mayfair",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 10,
+        "step_name": "Building and Pest Inspection Report Completed (NEW)",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 11,
+        "step_name": "Add to Current Units Price Guide for Katherine",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 12,
+        "step_name": "Signed EOI received and saved on file",
+        "assigned_to": "Mike",
+        "status": "In Progress",
+        "date_completed": null,
+        "notes": "EOI"
+      },
+      {
+        "step_number": 13,
+        "step_name": "EOI Deposit paid to  Trust Account",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 14,
+        "step_name": "EOI Deposit Trust Receipt Sent to Purchaser",
+        "assigned_to": "Mayfair",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 15,
+        "step_name": "Offer Put to vendor for approval in writing",
+        "assigned_to": "Sam",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 16,
+        "step_name": "Vendor acceptance of offer in writing",
+        "assigned_to": "Mike/Sam",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 17,
+        "step_name": "Purchaser Solicitor confirmed",
+        "assigned_to": "Mike",
+        "status": "Completed",
+        "date_completed": null,
+        "notes": "Sally Bakowski"
+      },
+      {
+        "step_number": 18,
+        "step_name": "BGM contracts sent to Solicitor and Purchaser",
+        "assigned_to": "Mayfair",
+        "status": "Completed",
+        "date_completed": "2024-10-03",
+        "notes": null
+      },
+      {
+        "step_number": 19,
+        "step_name": "Send copy of COS and BGM Contracts to Purchaser",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 20,
+        "step_name": "Schedule Calender appointment to follow up in 21 days",
+        "assigned_to": "Mike",
+        "status": "Completed",
+        "date_completed": "2024-10-24",
+        "notes": null
+      },
+      {
+        "step_number": 21,
+        "step_name": "Contract of Sale Signed and Executed (BGP and Vendor)",
+        "assigned_to": "Mayfair",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 22,
+        "step_name": "Loan Lease and Management Agreement Signed and saved on file",
+        "assigned_to": "Mayfair/Mike",
+        "status": "Completed",
+        "date_completed": "2025-01-23",
+        "notes": null
+      },
+      {
+        "step_number": 23,
+        "step_name": "Renovations SOW issued  (signed and saved on file)",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 24,
+        "step_name": "Renovations payment method agreed in writing",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 25,
+        "step_name": "Renovations complete and paid",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 26,
+        "step_name": "Inspection of Renovations complete",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 27,
+        "step_name": "Keys, Arrival Pack and BGM Gift",
+        "assigned_to": "Katherine",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 28,
+        "step_name": "Settlement Completed",
+        "assigned_to": "Mayfair/Mike",
+        "status": "Completed",
+        "date_completed": "2025-01-24",
+        "notes": null
+      },
+      {
+        "step_number": 29,
+        "step_name": "DMF Calculator Updated",
+        "assigned_to": "Sam",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 30,
+        "step_name": "Receive settlement statement info from Mayfair",
+        "assigned_to": "Mayfair",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 31,
+        "step_name": "Send completion documents to Jay to enter into MYOB",
+        "assigned_to": "Sam",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 32,
+        "step_name": "Pay onsite managers commissions",
+        "assigned_to": "Jay/Laurain",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 33,
+        "step_name": "Pay Mark his entitlements",
+        "assigned_to": "Laurain",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      }
+    ]
+  },
+  {
+    "unit_id": 58,
+    "steps": [
+      {
+        "step_number": 1,
+        "step_name": "Vendor Sales Authority  (Signed and saved on file)",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 2,
+        "step_name": "Send Vendor Sales Authority to Mayfair Legal",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 3,
+        "step_name": "Vendor engaged lawyer to trigger COS",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 4,
+        "step_name": "Special terms and conditions sent to Vendors Lawyer",
+        "assigned_to": "Mayfair",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 5,
+        "step_name": "Marketing Invoice Sent to Vendor",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 6,
+        "step_name": "Marketing Invoice Paid",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 7,
+        "step_name": "Photography Completed",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 8,
+        "step_name": "Online listings Completed REA, Barrina Webiste, Villages.com",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 9,
+        "step_name": "Contract of Sale Draft complete and sent by Mayfair Legal to Vendors Representative",
+        "assigned_to": "Mayfair",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 10,
+        "step_name": "Building and Pest Inspection Report Completed (NEW)",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 11,
+        "step_name": "Add to Current Units Price Guide for Katherine",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 12,
+        "step_name": "Signed EOI received and saved on file",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 13,
+        "step_name": "EOI Deposit paid to  Trust Account",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 14,
+        "step_name": "EOI Deposit Trust Receipt Sent to Purchaser",
+        "assigned_to": "Mayfair",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 15,
+        "step_name": "Offer Put to vendor for approval in writing",
+        "assigned_to": "Sam",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 16,
+        "step_name": "Vendor acceptance of offer in writing",
+        "assigned_to": "Mike/Sam",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 17,
+        "step_name": "Purchaser Solicitor confirmed",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 18,
+        "step_name": "BGM contracts sent to Solicitor and Purchaser",
+        "assigned_to": "Mayfair",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 19,
+        "step_name": "Send copy of COS and BGM Contracts to Purchaser",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 20,
+        "step_name": "Schedule Calender appointment to follow up in 21 days",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 21,
+        "step_name": "Contract of Sale Signed and Executed (BGP and Vendor)",
+        "assigned_to": "Mayfair",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 22,
+        "step_name": "Loan Lease and Management Agreement Signed and saved on file",
+        "assigned_to": "Mayfair/Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 23,
+        "step_name": "Renovations SOW issued  (signed and saved on file)",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 24,
+        "step_name": "Renovations payment method agreed in writing",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 25,
+        "step_name": "Renovations complete and paid",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 26,
+        "step_name": "Inspection of Renovations complete",
+        "assigned_to": "Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 27,
+        "step_name": "Keys, Arrival Pack and BGM Gift",
+        "assigned_to": "Katherine",
+        "status": "In Progress",
+        "date_completed": null,
+        "notes": "keys received"
+      },
+      {
+        "step_number": 28,
+        "step_name": "Settlement Completed",
+        "assigned_to": "Mayfair/Mike",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 29,
+        "step_name": "DMF Calculator Updated",
+        "assigned_to": "Sam",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 30,
+        "step_name": "Receive settlement statement info from Mayfair",
+        "assigned_to": "Mayfair",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 31,
+        "step_name": "Send completion documents to Jay to enter into MYOB",
+        "assigned_to": "Sam",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 32,
+        "step_name": "Pay onsite managers commissions",
+        "assigned_to": "Jay/Laurain",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      },
+      {
+        "step_number": 33,
+        "step_name": "Pay Mark his entitlements",
+        "assigned_to": "Laurain",
+        "status": "Not Started",
+        "date_completed": null,
+        "notes": null
+      }
+    ]
+  }
+]

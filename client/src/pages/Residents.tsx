@@ -15,8 +15,9 @@ import { Label } from '@/components/ui/label';
 import { Textarea } from '@/components/ui/textarea';
 import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from '@/components/ui/select';
 import { toast } from 'sonner';
-import { units, formatDate, calcAge, type Unit, type Note, type FieldHistoryEntry, BGM_BRAND } from '@/lib/data';
+import { formatDate, calcAge, type Unit, type Note, type FieldHistoryEntry, BGM_BRAND } from '@/lib/data';
 import { useAuth } from '@/contexts/AuthContext';
+import { useCRM } from '@/contexts/CRMStore';
 
 const C = BGM_BRAND;
 
@@ -553,18 +554,19 @@ export default function Residents() {
   const [search, setSearch] = useState('');
   const [statusFilter, setStatusFilter] = useState<string>('All');
   const [selectedUnit, setSelectedUnit] = useState<Unit | null>(null);
-  const [allUnits, setAllUnits] = useState<Unit[]>(units);
+  const { units: allUnits, updateUnit } = useCRM();
 
   const filtered = useMemo(() => {
     return allUnits.filter((u) => {
-      const matchSearch = !search || u.ownerName.toLowerCase().includes(search.toLowerCase()) || u.unitNo.includes(search);
+      const residentName = u.resident ? `${u.resident.firstName} ${u.resident.lastName}`.toLowerCase() : '';
+      const matchSearch = !search || u.ownerName.toLowerCase().includes(search.toLowerCase()) || u.unitNo.includes(search) || residentName.includes(search.toLowerCase());
       const matchStatus = statusFilter === 'All' || u.status === statusFilter;
       return matchSearch && matchStatus;
     });
   }, [allUnits, search, statusFilter]);
 
   const handleUpdate = (updated: Unit) => {
-    setAllUnits(prev => prev.map(u => u.unitNo === updated.unitNo ? updated : u));
+    updateUnit(updated.unitNo, updated);
     if (selectedUnit?.unitNo === updated.unitNo) setSelectedUnit(updated);
   };
 

@@ -5,6 +5,8 @@ import { Route, Switch } from "wouter";
 import ErrorBoundary from "./components/ErrorBoundary";
 import Layout from "./components/Layout";
 import { AuthProvider, useAuth } from "./contexts/AuthContext";
+import { CRMStoreProvider } from "./contexts/CRMStore";
+import { FieldHistoryProvider } from "./contexts/FieldHistoryContext";
 // Core pages
 import Dashboard from "./pages/Dashboard";
 import Residents from "./pages/Residents";
@@ -13,10 +15,9 @@ import Contracts from "./pages/Contracts";
 // Sales pages
 import Leads from "./pages/Leads";
 import Waitlist from "./pages/Waitlist";
-import Appointments from "./pages/Appointments";
+import SalesGantt from "./pages/SalesGantt";
 // Operations pages
 import Tasks from "./pages/Tasks";
-import Maintenance from "./pages/Maintenance";
 import SimCards from "./pages/SimCards";
 // Admin pages
 import Reports from "./pages/Reports";
@@ -37,9 +38,8 @@ function ProtectedRouter() {
         <Route path="/contracts" component={Contracts} />
         <Route path="/leads" component={Leads} />
         <Route path="/waitlist" component={Waitlist} />
-        <Route path="/appointments" component={Appointments} />
+        <Route path="/sales-gantt" component={SalesGantt} />
         <Route path="/tasks" component={Tasks} />
-        <Route path="/maintenance" component={Maintenance} />
         <Route path="/sim-cards" component={SimCards} />
         <Route path="/reports" component={Reports} />
         <Route path="/documents" component={Documents} />
@@ -56,12 +56,17 @@ function App() {
   return (
     <ErrorBoundary>
       <AuthProvider>
-        <TooltipProvider>
-          <Toaster />
-          <ProtectedRouter />
-        </TooltipProvider>
+        <CRMStoreProvider>
+          <FieldHistoryProvider>
+            <TooltipProvider>
+              <Toaster />
+              <ProtectedRouter />
+            </TooltipProvider>
+          </FieldHistoryProvider>
+        </CRMStoreProvider>
       </AuthProvider>
     </ErrorBoundary>
   );
 }
+
 export default App;

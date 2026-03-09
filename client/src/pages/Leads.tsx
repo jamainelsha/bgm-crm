@@ -13,10 +13,11 @@ import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from '@
 import { Label } from '@/components/ui/label';
 import { toast } from 'sonner';
 import {
-  leads as initialLeads, formatDate, UNIT_STYLES,
+  formatDate, UNIT_STYLES,
   type Lead, type ContactLogEntry, type Note, BGM_BRAND
 } from '@/lib/data';
 import { useAuth } from '@/contexts/AuthContext';
+import { useCRM } from '@/contexts/CRMStore';
 
 const C = BGM_BRAND;
 function genId() { return Math.random().toString(36).slice(2, 10); }
@@ -405,7 +406,7 @@ function LeadDetailPanel({ lead, onClose, onUpdate }: {
 
 // ── Main Leads Page ───────────────────────────────────────────────────────────
 export default function Leads() {
-  const [allLeads, setAllLeads] = useState<Lead[]>(initialLeads);
+  const { leads: allLeads, addLead, updateLead } = useCRM();
   const [search, setSearch] = useState('');
   const [statusFilter, setStatusFilter] = useState('All');
   const [contactedFilter, setContactedFilter] = useState('All');
@@ -429,13 +430,12 @@ export default function Leads() {
     sold: allLeads.filter(l => l.status === 'Sold').length,
   }), [allLeads]);
 
-  const handleUpdate = (updated: Lead) => {
-    setAllLeads(prev => prev.map(l => l.id === updated.id ? updated : l));
+   const handleUpdate = (updated: Lead) => {
+    updateLead(updated.id, updated);
     if (selected?.id === updated.id) setSelected(updated);
   };
-
   const handleAdd = (lead: Lead) => {
-    setAllLeads(prev => [lead, ...prev]);
+    addLead(lead);
     setSelected(lead);
   };
 

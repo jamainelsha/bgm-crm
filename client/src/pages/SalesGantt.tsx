@@ -11,7 +11,7 @@ import { Label } from '@/components/ui/label';
 import { Textarea } from '@/components/ui/textarea';
 import { toast } from 'sonner';
 import { useCRM, type GanttWorkflow, type GanttStep } from '@/contexts/CRMStore';
-import { units as allUnits, formatCurrency, BGM_BRAND } from '@/lib/data';
+import { units as allUnits, formatCurrency, calcSellFees, BGM_BRAND } from '@/lib/data';
 import { useAuth } from '@/contexts/AuthContext';
 
 const C = BGM_BRAND;
@@ -183,9 +183,19 @@ export default function SalesGantt() {
                     {allUnits.find(u => u.unitNo === unitNo)?.ownerName || 'Unknown'}
                   </p>
                   {sale && (
-                    <p className="text-[11px] font-medium" style={{ color: C.green }}>
-                      {formatCurrency(sale.sellPrice)}
-                    </p>
+                    <div>
+                      <p className="text-[11px] font-medium" style={{ color: C.green }}>
+                        {formatCurrency(sale.sellPrice)}
+                      </p>
+                      {(() => {
+                        const fees = calcSellFees(sale.sellPrice);
+                        return (
+                          <p className="text-[10px] text-muted-foreground">
+                            Fee BGM: {formatCurrency(fees.sellFeeBGM)} · Mngrs: {formatCurrency(fees.sellFeeMngrs)}
+                          </p>
+                        );
+                      })()}
+                    </div>
                   )}
                   <div className="w-full bg-gray-100 rounded-full h-1.5 mt-1.5">
                     <div

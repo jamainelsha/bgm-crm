@@ -3137,15 +3137,23 @@ export interface UpcomingSale {
   unitNo: string;
   owner: string;
   unitType: string;
-  sellPrice: number;
+  sellPrice: number;       // Estimated sale price — used as the basis for all selling fee calculations
   dmfRate: number;
   yearsOwned: number;
   dmfTotal: number;
   dmfDollars: number;
-  sellFeeBGM?: number;
-  sellFeeMngrs?: number;
   extra?: number;
   extraNotes?: string;
+}
+
+// Selling fee helper — always computed from sellPrice (estimated sale price), never from
+// settlementPrice or marketValue.  Formula: BGM fee = sellPrice × 20% ÷ 12 months;
+// Managers fee = sellPrice × 10% ÷ 12 months.
+export function calcSellFees(sellPrice: number): { sellFeeBGM: number; sellFeeMngrs: number } {
+  return {
+    sellFeeBGM: sellPrice / 60,    // 20% p.a. ÷ 12 months
+    sellFeeMngrs: sellPrice / 120, // 10% p.a. ÷ 12 months
+  };
 }
 
 export const upcomingSales: UpcomingSale[] = [
@@ -3170,8 +3178,6 @@ export const upcomingSales: UpcomingSale[] = [
     yearsOwned: 8.82,
     dmfTotal: 0.2645,
     dmfDollars: 152087.5,
-    sellFeeBGM: 9583.33,
-    sellFeeMngrs: 4791.67,
     extra: 16000,
     extraNotes: "Renovation Management",
   },
@@ -3184,8 +3190,6 @@ export const upcomingSales: UpcomingSale[] = [
     yearsOwned: 10,
     dmfTotal: 0.3,
     dmfDollars: 165000,
-    sellFeeBGM: 9166.67,
-    sellFeeMngrs: 4583.33,
     extraNotes: "Renovation Profit",
   },
   {
@@ -3197,8 +3201,6 @@ export const upcomingSales: UpcomingSale[] = [
     yearsOwned: 10,
     dmfTotal: 0.3,
     dmfDollars: 186000,
-    sellFeeBGM: 10333.33,
-    sellFeeMngrs: 5166.67,
   },
   {
     unitNo: "38",
@@ -3209,8 +3211,6 @@ export const upcomingSales: UpcomingSale[] = [
     yearsOwned: 10,
     dmfTotal: 0.3,
     dmfDollars: 210000,
-    sellFeeBGM: 11666.67,
-    sellFeeMngrs: 5833.33,
     extra: 22000,
     extraNotes: "Renovation Management",
   },
@@ -3223,8 +3223,6 @@ export const upcomingSales: UpcomingSale[] = [
     yearsOwned: 10,
     dmfTotal: 0.3,
     dmfDollars: 210000,
-    sellFeeBGM: 11666.67,
-    sellFeeMngrs: 5833.33,
   },
   {
     unitNo: "58",

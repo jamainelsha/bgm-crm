@@ -4,7 +4,8 @@ import NotFound from "@/pages/NotFound";
 import { Route, Switch } from "wouter";
 import ErrorBoundary from "./components/ErrorBoundary";
 import Layout from "./components/Layout";
-import { AuthProvider, useAuth } from "./contexts/AuthContext";
+import { AuthProvider, useAuth } from './contexts/AuthContext';
+import { MetaIntegrationProvider } from './contexts/MetaIntegrationContext';
 import { CRMStoreProvider } from "./contexts/CRMStore";
 import { FieldHistoryProvider } from "./contexts/FieldHistoryContext";
 // Core pages
@@ -20,7 +21,8 @@ import SalesGantt from "./pages/SalesGantt";
 import Tasks from "./pages/Tasks";
 import SimCards from "./pages/SimCards";
 // Admin pages
-import Reports from "./pages/Reports";
+import Reports from './pages/Reports';
+import MetaIntegration from './pages/MetaIntegration';
 import Documents from "./pages/Documents";
 import ResidentOnboarding from "./pages/ResidentOnboarding";
 import Settings from "./pages/Settings";
@@ -45,6 +47,7 @@ function ProtectedRouter() {
         <Route path="/documents" component={Documents} />
         <Route path="/onboarding" component={ResidentOnboarding} />
         <Route path="/settings" component={Settings} />
+        <Route path="/meta" component={MetaIntegration} />
         <Route path="/404" component={NotFound} />
         <Route component={NotFound} />
       </Switch>
@@ -56,6 +59,7 @@ function App() {
   return (
     <ErrorBoundary>
       <AuthProvider>
+        <MetaIntegrationProvider>
         <CRMStoreProvider>
           <FieldHistoryProvider>
             <TooltipProvider>
@@ -64,6 +68,7 @@ function App() {
             </TooltipProvider>
           </FieldHistoryProvider>
         </CRMStoreProvider>
+        </MetaIntegrationProvider>
       </AuthProvider>
     </ErrorBoundary>
   );

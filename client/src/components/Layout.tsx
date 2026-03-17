@@ -7,7 +7,7 @@ import {
   ListOrdered, BarChart3, FolderOpen, GanttChartSquare,
   Smartphone, ChevronLeft, ChevronRight, Bell,
   Settings, UserCircle, ClipboardCheck,
-  Menu, X, LogOut, Shield, ChevronDown
+  Menu, X, LogOut, Shield, ChevronDown, Facebook
 } from 'lucide-react';
 import { cn } from '@/lib/utils';
 import { useAuth } from '@/contexts/AuthContext';
@@ -45,6 +45,12 @@ const navGroups = [
     items: [
       { href: '/tasks', icon: ClipboardCheck, label: 'Tasks' },
       { href: '/sim-cards', icon: Smartphone, label: 'Emergency SIM Cards' },
+    ]
+  },
+  {
+    label: 'Marketing',
+    items: [
+      { href: '/meta', icon: Facebook, label: 'Meta Integration' },
     ]
   },
   {
